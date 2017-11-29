@@ -1,0 +1,966 @@
+$	nnmex.mexa64	94
+$	votemex.mexa64	95
+A	console_test_descriptor_mex.m	25
+A	console_test_mex.m	22
+A	test_descriptor_mex.m	25
+A	test_descriptor_mex.m	28
+A	#test_mex.m#	22
+A	test_mex.m	25
+A	test_mex.m	28
+A	test_mex.m~	25
+A	test_mex.m~	28
+A	votemex.m	1
+A	writeim.m	5
+AEH	nn.h	32
+AEH	nn.h~	32
+AEW	nn.h	31
+AEW	nn.h~	31
+ALGO_CPU	nn.h	71
+ALGO_CPU	nn.h~	71
+ALGO_CPUTILED	nn.h	74
+ALGO_CPUTILED	nn.h~	74
+ALGO_FULLRAND	nn.h	73
+ALGO_FULLRAND	nn.h~	73
+ALGO_GPUCPU	nn.h	72
+ALGO_GPUCPU	nn.h~	72
+ALLOC_ADATA	#patch.h#	20
+ALLOC_ADATA	patch.h	20
+ANGLE_SHIFT	simnn.h	18
+ActiveCfg	mex.sln	14
+ActiveCfg	mex.sln	16
+ActiveCfg	mex.sln	18
+ActiveCfg	mex.sln	20
+AdobePatentID_P876E1	nn.cpp	13
+AdobePatentID_P876E1	nnmex.cpp	12
+AdobePatentID_P876E1	patch.cpp	4
+AdobePatentID_P962	nn.cpp	14
+AdobePatentID_P962	nnmex.cpp	13
+B	console_test_descriptor_mex.m	26
+B	console_test_descriptor_mex.m	27
+B	console_test_descriptor_mex.m	83
+B	console_test_descriptor_mex.m	84
+B	console_test_mex.m	23
+B	console_test_mex.m	24
+B	console_test_mex.m	76
+B	console_test_mex.m	77
+B	test_descriptor_mex.m	26
+B	test_descriptor_mex.m	27
+B	test_descriptor_mex.m	29
+B	test_descriptor_mex.m	92
+B	test_descriptor_mex.m	93
+B	#test_mex.m#	23
+B	#test_mex.m#	24
+B	#test_mex.m#	81
+B	#test_mex.m#	82
+B	test_mex.m	26
+B	test_mex.m	27
+B	test_mex.m	34
+B	test_mex.m	35
+B	test_mex.m	97
+B	test_mex.m	98
+B	test_mex.m~	26
+B	test_mex.m~	27
+B	test_mex.m~	34
+B	test_mex.m~	35
+B	test_mex.m~	97
+B	test_mex.m~	98
+BEH	nn.h	34
+BEH	nn.h~	34
+BEW	nn.h	33
+BEW	nn.h~	33
+BITMAP	allegro_emu.h	5
+BITMAP	allegro_emu.h	/^  BITMAP(int ww = 1, int hh = 1): w(ww), h(hh) {}$/
+BITMAP	pm_minimal.cpp	31
+BITMAP::BITMAP	pm_minimal.cpp	/^  BITMAP(int w_, int h_) :w(w_), h(h_) { data = ne/
+BITMAP::data	pm_minimal.cpp	33
+BITMAP::h	pm_minimal.cpp	32
+BITMAP::w	pm_minimal.cpp	32
+BITMAP::~BITMAP	pm_minimal.cpp	/^  ~BITMAP() { delete[] data; }$/
+Box	nn.h	183
+Box	nn.h~	183
+Box::xmax	nn.h	185
+Box::xmax	nn.h~	185
+Box::xmin	nn.h	185
+Box::xmin	nn.h~	185
+Box::ymax	nn.h	185
+Box::ymax	nn.h~	185
+Box::ymin	nn.h	185
+Box::ymin	nn.h~	185
+C	nnmex.mexa64	20
+C	nnmex.mexa64	38
+C	votemex.mexa64	21
+C	votemex.mexa64	39
+CHECK_COORDS	knn.cpp	427
+COHERENCE_WEIGHT	nn.h	47
+COHERENCE_WEIGHT	nn.h~	47
+COMPLETE_WEIGHT	nn.h	48
+COMPLETE_WEIGHT	nn.h~	48
+COS_TABLE	nn.cpp	1261
+CXXOPTIMFLAGS	build_mac.m	3
+CXXOPTIMFLAGS	build_unix.sh	2
+D	a.png	112
+D	#test_knn.m#	14
+D	test_knn.m	14
+DELTA_TERM	#patch.h#	29
+DELTA_TERM	patch.h	29
+DELTA_TERM_R	#patch.h#	/^#define DELTA_TERM_R(dr) ((dr)*(dr))$/
+DELTA_TERM_R	patch.h	/^#define DELTA_TERM_R(dr) (abs(dr))$/
+DELTA_TERM_R	patch.h	/^#define DELTA_TERM_R(dr) ((dr)*(dr))$/
+DELTA_TERM_RGB	#patch.h#	/^#define DELTA_TERM_RGB(dr, dg, db) DELTA_TERM_RGB_/
+DELTA_TERM_RGB	patch.h	/^#define DELTA_TERM_RGB(dr, dg, db) DELTA_TERM_RGB_/
+DELTA_TERM_RGB_ex	#patch.h#	/^#define DELTA_TERM_RGB_ex(dr, dg, db) (abs(dr)+abs/
+DELTA_TERM_RGB_ex	#patch.h#	/^#define DELTA_TERM_RGB_ex(dr, dg, db) (dr*dr+dg*dg/
+DELTA_TERM_RGB_ex	patch.h	/^#define DELTA_TERM_RGB_ex(dr, dg, db) (abs(dr)+abs/
+DELTA_TERM_RGB_ex	patch.h	/^#define DELTA_TERM_RGB_ex(dr, dg, db) (dr*dr+dg*dg/
+Df	c.png	800
+DãJDãrD	nnmex.mexa64	/^DãJDãrDãbLâD$(Lã,âå$P$/
+DãJDãrD	votemex.mexa64	/^DãJDãrDãbLâD$(Lã,âå$P$/
+D‚8∑	a.png	112
+E	a.png	107
+E	nnmex.mexa64	79
+E	votemex.mexa64	80
+ENRICH_DURING	knn.cpp	29
+ENRICH_HASHSET	knn.cpp	3515
+Eã8	nnmex.mexa64	71
+Eã8	votemex.mexa64	72
+E†	a.png	693
+FILTER_SHIFT	knn.cpp	114
+File	mex.sln	2
+GAUSSIAN_TERM	knn.cpp	3106
+GAUSSIAN_TERM	knn.cpp	3108
+HASH_FUNC	knn.cpp	/^#define HASH_FUNC(xv, yv) (((xv)+(yv)*3829)&(NHASH/
+HAS_MASKS	vecnn.h	828
+HAS_MASKS	vecpatch.h	135
+HISTO_ANGLES	knn.cpp	48
+I9Òu©I	nnmex.mexa64	50
+I9Òu©I	votemex.mexa64	51
+INT_TO_X	nn.h	/^#define INT_TO_X(v) ((v)&((1<<12)-1))$/
+INT_TO_X	nn.h~	/^#define INT_TO_X(v) ((v)&((1<<12)-1))$/
+INT_TO_X	pm_minimal.cpp	/^#define INT_TO_X(v) ((v)&((1<<12)-1))$/
+INT_TO_XREL	knn.cpp	/^#define INT_TO_XREL(p) (((p)&65535)-16384)$/
+INT_TO_Y	nn.h	/^#define INT_TO_Y(v) ((v)>>12)$/
+INT_TO_Y	nn.h~	/^#define INT_TO_Y(v) ((v)>>12)$/
+INT_TO_Y	pm_minimal.cpp	/^#define INT_TO_Y(v) ((v)>>12)$/
+INT_TO_YREL	knn.cpp	/^#define INT_TO_YREL(p) (((p)>>16)-16384)$/
+IS_MASK	nn.cpp	140
+IS_MASK	nn.cpp	546
+IS_MASK	nn.cpp	744
+IS_MASK	nn.cpp	886
+IS_MASK	nn.cpp	1301
+IS_MASK	#patch.h#	97
+IS_MASK	patch.h	97
+IS_MASK	vecnn.h	73
+IS_MASK	vecnn.h	138
+IS_MASK	vecnn.h	349
+IS_MASK	vecnn.h	507
+IS_MASK	vecpatch.h	20
+IS_MASK	vecpatch.h	117
+IS_SIMPLE	nn.cpp	396
+IS_VERBOSE	nn.h	27
+IS_VERBOSE	nn.h~	27
+IS_WINDOW	nn.cpp	2460
+IS_WINDOW	#patch.h#	174
+IS_WINDOW	patch.h	174
+IS_WINDOW	vecnn.h	282
+IS_WINDOW	vecnn.h	349
+IS_WINDOW	vecnn.h	507
+IS_WINDOW	vecnn.h	828
+IS_WINDOW	vecpatch.h	47
+IS_WINDOW	vecpatch.h	59
+IS_WINDOW	vecpatch.h	88
+IS_WINDOW	vecpatch.h	117
+IS_WINDOW	vecpatch.h	135
+IÉ	nnmex.mexa64	20
+IÉ	nnmex.mexa64	38
+IÉ	votemex.mexa64	21
+IÉ	votemex.mexa64	39
+Js	a.png	680
+KNNSolver	knn.cpp	3530
+KNNSolver::KNNSolver	knn.cpp	/^  KNNSolver(Params *p_, BITMAP *b_, VBMP *ann_, VB/
+KNNSolver::ann	knn.cpp	3533
+KNNSolver::ann_sim	knn.cpp	3534
+KNNSolver::annd	knn.cpp	3535
+KNNSolver::aorig	knn.cpp	3537
+KNNSolver::b	knn.cpp	3532
+KNNSolver::f	knn.cpp	/^  virtual double f(double x[]) {$/
+KNNSolver::n	knn.cpp	3536
+KNNSolver::p	knn.cpp	3531
+KNNSolverWeightFunc	knn.h	53
+KNNSolverWeightFunc::KNNSolverWeightFunc	knn.cpp	/^KNNSolverWeightFunc::KNNSolverWeightFunc(double x[/
+KNNSolverWeightFunc::param	knn.h	54
+KNNSolverWeightFunc::weight	knn.cpp	/^double KNNSolverWeightFunc::weight(double d, int i/
+KNNWeightFunc	knn.h	49
+KNN_ALGO_AVOID	nn.h	77
+KNN_ALGO_AVOID	nn.h~	77
+KNN_ALGO_CHANGEK	nn.h	82
+KNN_ALGO_CHANGEK	nn.h~	82
+KNN_ALGO_FLANN	nn.h	83
+KNN_ALGO_FLANN	nn.h~	83
+KNN_ALGO_HEAP	nn.h	76
+KNN_ALGO_HEAP	nn.h~	76
+KNN_ALGO_KDTREE	nn.h	81
+KNN_ALGO_KDTREE	nn.h~	81
+KNN_ALGO_PRINANGLE	nn.h	78
+KNN_ALGO_PRINANGLE	nn.h~	78
+KNN_ALGO_TOP1NN	nn.h	79
+KNN_ALGO_TOP1NN	nn.h~	79
+KNN_ALGO_WINDOW	nn.h	80
+KNN_ALGO_WINDOW	nn.h~	80
+KNN_MEDOID	knn.cpp	24
+Kx8Jiö	b.png	737
+L	a.png	683
+L	a.png	683
+LargeKPositionSet	knn.cpp	638
+LargeKPositionSet::LargeKPositionSet	knn.cpp	/^  LargeKPositionSet() {$/
+LargeKPositionSet::LargeKPositionSet	knn.cpp	/^  LargeKPositionSet(int *pnn_, vector<qtype<int> >/
+LargeKPositionSet::check	knn.cpp	/^  void check(int i, int id) {$/
+LargeKPositionSet::contains	knn.cpp	/^  int contains(int xv, int yv, int i) {$/
+LargeKPositionSet::contains_noqueue	knn.cpp	/^  int contains_noqueue(int xv, int yv, int i) {$/
+LargeKPositionSet::free_item	knn.cpp	649
+LargeKPositionSet::init	knn.cpp	/^  void init(int *pnn_, vector<qtype<int> > *q_, in/
+LargeKPositionSet::insert_nonexistent	knn.cpp	/^  void insert_nonexistent(int xv, int yv, int verb/
+LargeKPositionSet::item	knn.cpp	644
+LargeKPositionSet::item_data	knn.cpp	645
+LargeKPositionSet::nhash	knn.cpp	646
+LargeKPositionSet::nhash_m1	knn.cpp	647
+LargeKPositionSet::pnn	knn.cpp	651
+LargeKPositionSet::q	knn.cpp	652
+LargeKPositionSet::remove	knn.cpp	/^  void remove(int xv, int yv) {$/
+LargeKPositionSet::try_insert	knn.cpp	/^  int try_insert(int xv, int yv, int i) {$/
+LargeKPositionSet::~LargeKPositionSet	knn.cpp	/^  ~LargeKPositionSet() {$/
+Link	knn.cpp	4097
+Link::dval	knn.cpp	4099
+Link::next	knn.cpp	4100
+Link::pos	knn.cpp	4098
+LinkNoDist	knn.cpp	4285
+LinkNoDist::next	knn.cpp	4287
+LinkNoDist::pos	knn.cpp	4286
+MAX	nn.h	/^#define MAX(a, b) ((a)>(b)?(a):(b))$/
+MAX	nn.h~	/^#define MAX(a, b) ((a)>(b)?(a):(b))$/
+MAX	pm_minimal.cpp	/^#define MAX(a, b) ((a)>(b)?(a):(b))$/
+MAX_NN_GUESS_ITERS	nn.cpp	1449
+MAX_PATCH_W	nn.h	29
+MAX_PATCH_W	nn.h~	29
+MIN	nn.h	/^#define MIN(a, b) ((a)<(b)?(a):(b))$/
+MIN	nn.h~	/^#define MIN(a, b) ((a)<(b)?(a):(b))$/
+MIN	pm_minimal.cpp	/^#define MIN(a, b) ((a)<(b)?(a):(b))$/
+MODE_IMAGE	nnmex.cpp	17
+MODE_VECB	nnmex.cpp	18
+MODE_VECF	nnmex.cpp	19
+M_PI	knn.cpp	49
+M_PI	nn.cpp	1266
+M_PI	nnmex.cpp	22
+M_PI	simnn.cpp	47
+Mpm_minimal.cpp	pm_minimal.cpp	/^int main(int argc, char *argv[]) {$/
+NHASH	knn.cpp	418
+NHASH	knn.cpp	421
+NHASH	knn.cpp	631
+NHASH	knn.cpp	635
+NHASH_M1	knn.cpp	419
+NHASH_M1	knn.cpp	422
+NHASH_M1	knn.cpp	632
+NHASH_M1	knn.cpp	636
+NLDÍ#¬s Ãbf	a.png	6
+NTABLE	nn.cpp	1259
+NUM_ANGLES	simnn.h	19
+NUM_SCALES	simnn.h	21
+N_PRINCIPAL_ANGLE	knn.h	30
+N_PRINCIPAL_ANGLE_SHIFT	knn.h	29
+OVERLAPPING_PATCHES	knn.cpp	26
+ObjectiveFunc	knn.h	59
+Optimized	build_windows.bat	/^@rem Optimized (slow to build)$/
+PATCH_W	knn.cpp	946
+PATCH_W	knn.cpp	1509
+PATCH_W	knn.cpp	3200
+PATCH_W	nn.cpp	50
+PATCH_W	nn.cpp	140
+PATCH_W	nn.cpp	396
+PATCH_W	nn.cpp	546
+PATCH_W	nn.cpp	744
+PATCH_W	nn.cpp	886
+PATCH_W	nn.cpp	1301
+PATCH_W	nn.cpp	2460
+PATCH_W	#patch.h#	97
+PATCH_W	patch.h	97
+PATCH_W	simnn.cpp	397
+PRINCIPAL_ANGLE	knn.h	32
+PRINCIPAL_ANGLE::angle	knn.h	33
+PROP_DIST2	knn.cpp	28
+P_BEST_ONLY	knn.cpp	30
+P_RAND1TOK	knn.cpp	35
+P_RAND_ONLY	knn.cpp	32
+Params	nn.h	88
+Params	nn.h~	88
+Params::Params	nn.h	/^  Params()$/
+Params::Params	nn.h~	/^  Params()$/
+Params::algo	nn.h	89
+Params::algo	nn.h~	89
+Params::allow_coherent	nn.h	106
+Params::allow_coherent	nn.h~	106
+Params::cores	nn.h	107
+Params::cores	nn.h~	107
+Params::do_enrich	nn.h	128
+Params::do_enrich	nn.h~	128
+Params::do_inverse_enrich	nn.h	127
+Params::do_inverse_enrich	nn.h~	127
+Params::do_propagate	nn.h	99
+Params::do_propagate	nn.h~	99
+Params::enrich_iters	nn.h	125
+Params::enrich_iters	nn.h~	125
+Params::enrich_times	nn.h	126
+Params::enrich_times	nn.h~	126
+Params::eps	nn.h	117
+Params::eps	nn.h~	117
+Params::gpu_prop	nn.h	100
+Params::gpu_prop	nn.h~	100
+Params::kcoherence_iters	nn.h	119
+Params::kcoherence_iters	nn.h~	119
+Params::kcoherence_k	nn.h	118
+Params::kcoherence_k	nn.h~	118
+Params::kcoherence_neighbors	nn.h	120
+Params::kcoherence_neighbors	nn.h~	120
+Params::knn	nn.h	122
+Params::knn	nn.h~	122
+Params::knn_algo	nn.h	123
+Params::knn_algo	nn.h~	123
+Params::nn_iters	nn.h	94
+Params::nn_iters	nn.h~	94
+Params::patch_w	nn.h	92
+Params::patch_w	nn.h~	92
+Params::pca_dim	nn.h	115
+Params::pca_dim	nn.h~	115
+Params::pca_var	nn.h	116
+Params::pca_var	nn.h~	116
+Params::prefer_coherent	nn.h	105
+Params::prefer_coherent	nn.h~	105
+Params::resample_seamcarv	nn.h	103
+Params::resample_seamcarv	nn.h~	103
+Params::restarts	nn.h	124
+Params::restarts	nn.h~	124
+Params::rs_iters	nn.h	98
+Params::rs_iters	nn.h~	98
+Params::rs_max	nn.h	95
+Params::rs_max	nn.h~	95
+Params::rs_min	nn.h	96
+Params::rs_min	nn.h~	96
+Params::rs_ratio	nn.h	97
+Params::rs_ratio	nn.h~	97
+Params::vec_len	nn.h	93
+Params::vec_len	nn.h~	93
+Params::vote_algo	nn.h	104
+Params::vote_algo	nn.h~	104
+Params::weight_b	nn.h	112
+Params::weight_b	nn.h~	112
+Params::weight_g	nn.h	111
+Params::weight_g	nn.h~	111
+Params::weight_r	nn.h	110
+Params::weight_r	nn.h~	110
+Params::window_h	nn.h	109
+Params::window_h	nn.h~	109
+Params::window_w	nn.h	108
+Params::window_w	nn.h~	108
+Params::xmax	nn.h	102
+Params::xmax	nn.h~	102
+Params::xmin	nn.h	101
+Params::xmin	nn.h~	101
+Params::ymax	nn.h	102
+Params::ymax	nn.h~	102
+Params::ymin	nn.h	101
+Params::ymin	nn.h~	101
+PositionLink	knn.cpp	429
+PositionLink::next	knn.cpp	431
+PositionLink::v	knn.cpp	430
+PositionSet	knn.cpp	443
+PositionSet::PositionSet	knn.cpp	/^  PositionSet() {$/
+PositionSet::PositionSet	knn.cpp	/^  PositionSet(int *pnn_, vector<qtype<int> > *q_, /
+PositionSet::check	knn.cpp	/^  void check(int i, int id) {$/
+PositionSet::contains	knn.cpp	/^  int contains(int xv, int yv, int i) {$/
+PositionSet::contains_noqueue	knn.cpp	/^  int contains_noqueue(int xv, int yv, int i) {$/
+PositionSet::free_item	knn.cpp	454
+PositionSet::init	knn.cpp	/^  void init(int *pnn_, vector<qtype<int> > *q_, in/
+PositionSet::insert_nonexistent	knn.cpp	/^  void insert_nonexistent(int xv, int yv, int verb/
+PositionSet::item	knn.cpp	446
+PositionSet::item	knn.cpp	449
+PositionSet::item_data	knn.cpp	447
+PositionSet::item_data	knn.cpp	450
+PositionSet::nhash	knn.cpp	451
+PositionSet::nhash_m1	knn.cpp	452
+PositionSet::pnn	knn.cpp	456
+PositionSet::q	knn.cpp	457
+PositionSet::remove	knn.cpp	/^  void remove(int xv, int yv) {$/
+PositionSet::try_insert	knn.cpp	/^  int try_insert(int xv, int yv, int i) {$/
+PositionSet::~PositionSet	knn.cpp	/^  ~PositionSet() {$/
+Q	a.png	702
+RAD_TABLE	nn.cpp	1263
+RANDI	nn.h	/^#define RANDI(u) (18000 * ((u) & 65535) + ((u) >> /
+RANDI	nn.h~	/^#define RANDI(u) (18000 * ((u) & 65535) + ((u) >> /
+RAND_MAX	nn.cpp	17
+RAND_MAX	nn.cpp	18
+RS_BEST_ONLY	knn.cpp	31
+RS_RAND1TOK	knn.cpp	34
+RS_RAND_ONLY	knn.cpp	33
+RecomposeParams	nn.h	249
+RecomposeParams	nn.h~	249
+RecomposeParams::RecomposeParams	nn.h	/^  RecomposeParams()$/
+RecomposeParams::RecomposeParams	nn.h~	/^  RecomposeParams()$/
+RecomposeParams::minnn_optp_nn_iters	nn.h	250
+RecomposeParams::minnn_optp_nn_iters	nn.h~	250
+RecomposeParams::minnn_optp_rs_max	nn.h	251
+RecomposeParams::minnn_optp_rs_max	nn.h~	251
+RegionMasks	nn.h	188
+RegionMasks	nn.h~	188
+RegionMasks::RegionMasks	nn.cpp	/^RegionMasks::RegionMasks(Params *p, BITMAP *region/
+RegionMasks::bmp	nn.h	190
+RegionMasks::bmp	nn.h~	190
+RegionMasks::box	nn.h	191
+RegionMasks::box	nn.h~	191
+SA	console_test_descriptor_mex.m	29
+SA	console_test_descriptor_mex.m	29
+SA	test_descriptor_mex.m	31
+SA	test_descriptor_mex.m	31
+SAMPLE_BILINEAR_EXACT	simpatch.h	12
+SAMPLE_NN	simpatch.h	11
+SAVE_DIST	knn.h	11
+SB	console_test_descriptor_mex.m	30
+SB	console_test_descriptor_mex.m	30
+SB	test_descriptor_mex.m	32
+SB	test_descriptor_mex.m	32
+SCALE_SHIFT	simnn.h	20
+SCALE_UNITY	simnn.h	24
+SIN_TABLE	nn.cpp	1262
+SMALLK	knn.cpp	39
+SMOOTH_DOWNSAMPLE	knn.cpp	4776
+SYNC_WRITEBACK	nn.h	28
+SYNC_WRITEBACK	nn.h~	28
+TPATCH_W	#patch.h#	32
+TPATCH_W	#patch.h#	114
+TPATCH_W	#patch.h#	174
+TPATCH_W	patch.h	32
+TPATCH_W	patch.h	114
+TPATCH_W	patch.h	174
+TPATCH_W	simpatch.h	14
+TPATCH_W	simpatch.h	116
+TRANSLATE_ONLY	knn.cpp	22
+U	b.png	739
+USE_ERF	knn.cpp	25
+USE_GRAPHCUTS	knn.cpp	14
+USE_GRAPHCUTS	knn.cpp	17
+USE_GRAPHCUTS	knn.cpp	18
+USE_L1	#patch.h#	18
+USE_L1	patch.h	18
+USE_OPENMP	nn.h	15
+USE_OPENMP	nn.h~	15
+Ul≠	a.png	684
+VARRAY	knn.cpp	1582
+VARRAY	knn.cpp	1584
+VBMP	knn.h	13
+VECBITMAP	vecnn.h	19
+VECBITMAP::VECBITMAP	vecnn.h	/^  VECBITMAP() { }$/
+VECBITMAP::VECBITMAP	vecnn.h	/^  VECBITMAP(int w_, int h_, int n_) { w = w_; h = /
+VECBITMAP::data	vecnn.h	21
+VECBITMAP::get	vecnn.h	/^  T *get(int x, int y) { return &data[(y*w+x)*n]; /
+VECBITMAP::h	vecnn.h	22
+VECBITMAP::line_n1	vecnn.h	/^  T *line_n1(int y) { return &data[y*w]; }        /
+VECBITMAP::n	vecnn.h	22
+VECBITMAP::w	vecnn.h	22
+VECBITMAP::~VECBITMAP	vecnn.h	/^  ~VECBITMAP() { delete[] data; }$/
+VECBITMAP_ARB	nn.h	236
+VECBITMAP_ARB	nn.h~	236
+VECBITMAP_ARB::data	nn.h	238
+VECBITMAP_ARB::data	nn.h~	238
+VECBITMAP_ARB::get	nn.cpp	/^vector<unsigned> *VECBITMAP_ARB::get(int x, int y)/
+VECBITMAP_ARB::h	nn.h	239
+VECBITMAP_ARB::h	nn.h~	239
+VECBITMAP_ARB::w	nn.h	239
+VECBITMAP_ARB::w	nn.h~	239
+VEC_MODE_DESC	vecnn.h	985
+VEC_MODE_PATCH	vecnn.h	984
+VEC_MODE_SIM	vecnn.h	986
+VOTE_MEAN	nn.h	85
+VOTE_MEAN	nn.h~	85
+VOTE_SUM	knn.cpp	27
+VOTE_SUM	nn.h	86
+VOTE_SUM	nn.h~	86
+VoteLink	nn.cpp	389
+VoteLink::next	nn.cpp	392
+VoteLink::pos	nn.cpp	391
+W3	c.png	5
+W≥˙ul€«œè2	a.png	111
+XCvec_attempt_n	vecpatch.h	/^void XCvec_attempt_n(ACCUM &err, int &xbest, int &/
+XCvec_fast_patch_dist	vecpatch.h	/^ACCUM XCvec_fast_patch_dist(T *adata[PATCH_W][PATC/
+XCvec_fast_patch_nobranch	vecpatch.h	/^ACCUM XCvec_fast_patch_nobranch(T *adata[PATCH_W][/
+XCvec_init_dist	vecnn.h	/^VECBITMAP<ACCUM> *XCvec_init_dist(Params *p, VECBI/
+XCvec_init_dist_n	vecnn.h	/^VECBITMAP<ACCUM> *XCvec_init_dist_n(Params *p, VEC/
+XCvec_init_nn	vecnn.h	/^BITMAP *XCvec_init_nn(Params *p, VECBITMAP<T> *a, /
+XCvec_minnn	vecnn.h	/^void XCvec_minnn(Params *p, VECBITMAP<T> *a, VECBI/
+XCvec_minnn_n	vecnn.h	/^void XCvec_minnn_n(Params *p, VECBITMAP<T> *a, VEC/
+XCvec_nn	vecnn.h	/^void XCvec_nn(Params *p, VECBITMAP<T> *a, VECBITMA/
+XCvec_nn_n	vecnn.h	/^void XCvec_nn_n(Params *p, VECBITMAP<T> *a, VECBIT/
+XCvec_patch_dist_ab	vecpatch.h	/^ACCUM XCvec_patch_dist_ab(Params *p, VECBITMAP<T> /
+XFORM	simnn.h	26
+XFORM::dxdu	simnn.h	28
+XFORM::dxdv	simnn.h	28
+XFORM::dydu	simnn.h	28
+XFORM::dydv	simnn.h	28
+XFORM::x0	simnn.h	28
+XFORM::y0	simnn.h	28
+XYREL_TO_INT	knn.cpp	/^#define XYREL_TO_INT(x, y) ((x+16384)|((y+16384)<</
+XY_TO_INT	nn.h	/^#define XY_TO_INT(x, y) (((y)<<12)|(x))$/
+XY_TO_INT	nn.h~	/^#define XY_TO_INT(x, y) (((y)<<12)|(x))$/
+XY_TO_INT	pm_minimal.cpp	/^#define XY_TO_INT(x, y) (((y)<<12)|(x))$/
+XY_TO_INT_SHIFT	nn.h	53
+XY_TO_INT_SHIFT	nn.h~	53
+_allegro_emu_h	allegro_emu.h	3
+_getpixel32	allegro_emu.h	/^inline int _getpixel32(BITMAP *a, int x, int y) { /
+_knn_h	knn.h	5
+_mexutil_h	mexutil.h	3
+_nn_h	nn.h	5
+_nn_h	nn.h~	5
+_nnvec_h	vecnn.h	3
+_patch_h	#patch.h#	13
+_patch_h	patch.h	13
+_putpixel32	allegro_emu.h	/^inline void _putpixel32(BITMAP *a, int x, int y, i/
+_simnn_h	simnn.h	5
+_simpatch_h	simpatch.h	5
+_vecpatch_h	vecpatch.h	5
+accurate_timer	knn.cpp	/^#define accurate_timer() 0.0$/
+algo	console_test_descriptor_mex.m	21
+algo	console_test_mex.m	19
+algo	test_descriptor_mex.m	21
+algo	#test_mex.m#	19
+algo	test_mex.m	23
+algo	test_mex.m~	23
+all	console_test_mex.m	73
+all	#test_mex.m#	78
+all	test_mex.m	19
+all	test_mex.m	94
+all	test_mex.m~	19
+all	test_mex.m~	94
+ann	console_test_descriptor_mex.m	44
+ann	console_test_descriptor_mex.m	55
+ann	console_test_descriptor_mex.m	85
+ann	console_test_mex.m	36
+ann	console_test_mex.m	47
+ann	console_test_mex.m	78
+ann	#nnmex.m#	/^%function ann = nnmex(A, B, [algo='cpu'], [patch_w/
+ann	nnmex.m	1
+ann	test_descriptor_mex.m	46
+ann	test_descriptor_mex.m	60
+ann	test_descriptor_mex.m	94
+ann	#test_mex.m#	36
+ann	#test_mex.m#	50
+ann	#test_mex.m#	83
+ann	test_mex.m	47
+ann	test_mex.m	66
+ann	test_mex.m	99
+ann	test_mex.m~	47
+ann	test_mex.m~	66
+ann	test_mex.m~	99
+ann0	console_test_descriptor_mex.m	34
+ann0	console_test_mex.m	27
+ann0	test_descriptor_mex.m	36
+ann0	#test_mex.m#	27
+ann0	test_mex.m	38
+ann0	test_mex.m~	38
+annp	console_test_descriptor_mex.m	70
+annp	console_test_descriptor_mex.m	76
+annp	console_test_mex.m	62
+annp	console_test_mex.m	68
+annp	test_descriptor_mex.m	75
+annp	test_descriptor_mex.m	82
+annp	#test_mex.m#	65
+annp	#test_mex.m#	72
+annp	test_mex.m	81
+annp	test_mex.m	88
+annp	test_mex.m~	81
+annp	test_mex.m~	88
+attempt_n	#patch.h#	/^void attempt_n(int &err, int &xbest, int &ybest, i/
+attempt_n	patch.h	/^void attempt_n(int &err, int &xbest, int &ybest, i/
+avoid_attempt_n	knn.cpp	/^void avoid_attempt_n(int &err, int &xbest, int &yb/
+aÁ◊ÛeﬂUZÔ	c.png	791
+b	console_test_knn.m	5
+b	console_test_rot_scale.m	2
+b	#test_knn.m#	5
+b	test_knn.m	5
+b	test_rot_scale.m	2
+b	writeim.m	4
+bitmap_color_depth	allegro_emu.cpp	/^int bitmap_color_depth(BITMAP *bmp) {$/
+bitmap_to_array	mexutil.cpp	/^mxArray *bitmap_to_array(BITMAP *a) {$/
+bitmap_to_patches	vecnn.cpp	/^VECBITMAP<unsigned char> *bitmap_to_patches(Params/
+bitmap_to_vbmp	knn.cpp	/^VBMP *bitmap_to_vbmp(BITMAP *bmp) {$/
+bitmap_to_vecbitmap	vecnn.cpp	/^VECBITMAP<int> *bitmap_to_vecbitmap(BITMAP *a) {$/
+blit	allegro_emu.cpp	/^void blit(BITMAP *a, BITMAP *b, int ax, int ay, in/
+bnn	console_test_descriptor_mex.m	45
+bnn	console_test_descriptor_mex.m	56
+bnn	console_test_descriptor_mex.m	85
+bnn	console_test_descriptor_mex.m	90
+bnn	console_test_mex.m	37
+bnn	console_test_mex.m	48
+bnn	console_test_mex.m	78
+bnn	console_test_mex.m	83
+bnn	test_descriptor_mex.m	47
+bnn	test_descriptor_mex.m	61
+bnn	test_descriptor_mex.m	94
+bnn	test_descriptor_mex.m	99
+bnn	#test_mex.m#	37
+bnn	#test_mex.m#	51
+bnn	#test_mex.m#	83
+bnn	#test_mex.m#	88
+bnn	test_mex.m	48
+bnn	test_mex.m	67
+bnn	test_mex.m	99
+bnn	test_mex.m	104
+bnn	test_mex.m~	48
+bnn	test_mex.m~	67
+bnn	test_mex.m~	99
+bnn	test_mex.m~	104
+c	console_test_knn.m	6
+c	console_test_rot_scale.m	3
+c	find_ann0.m	1
+c	#test_knn.m#	6
+c	test_knn.m	6
+c	test_rot_scale.m	3
+change_k_to	knn.cpp	3002
+change_knn	knn.cpp	/^void change_knn(Params *p, BITMAP *a, BITMAP *b, V/
+check_change_knn	knn.cpp	/^void check_change_knn(Params *p, BITMAP *a, BITMAP/
+check_colors	nn.cpp	/^void check_colors(BITMAP *bmp) {$/
+check_dists	nn.cpp	/^void check_dists(Params *p, BITMAP *a, BITMAP *b, /
+check_im	pm_minimal.cpp	/^void check_im() {$/
+check_nn	nn.cpp	/^void check_nn(Params *p, BITMAP *ann, BITMAP *b, B/
+check_offset	simnn.cpp	/^void check_offset(Params *p, BITMAP *b, int x, int/
+clear	allegro_emu.cpp	/^void clear(BITMAP *bmp) {$/
+clear_to_color	allegro_emu.cpp	/^void clear_to_color(BITMAP *bmp, int c) {$/
+clear_to_color	vecnn.h	/^void clear_to_color(VECBITMAP<T> *bmp, T c) {$/
+clip_nn	nn.cpp	/^int clip_nn(Params *p, BITMAP *ann, BITMAP *b) {$/
+clip_value	mexutil.h	/^inline void clip_value(T *p, T low, T high) { $/
+cnn	console_test_knn.m	8
+cnn	console_test_knn.m	20
+cnn	console_test_rot_scale.m	4
+cnn	#test_knn.m#	8
+cnn	#test_knn.m#	20
+cnn	test_knn.m	8
+cnn	test_knn.m	20
+cnn	test_rot_scale.m	4
+color_gaussian_blur	knn.cpp	/^BITMAP *color_gaussian_blur(BITMAP *a, double sigm/
+combine_knn	knn.cpp	/^void combine_knn(Params *p1, Params *p2, BITMAP *a/
+contains_pair	knn.cpp	/^int contains_pair(Params *p, int *p_ann, int *p_an/
+convert_bitmap	mexutil.cpp	/^BITMAP *convert_bitmap(const mxArray *A) {$/
+convert_bitmapf	mexutil.cpp	/^BITMAP *convert_bitmapf(const mxArray *A) {$/
+convert_field	mexutil.cpp	/^BITMAP *convert_field(Params *p, const mxArray *A,/
+convert_vecbitmap	mexutil.h	/^VECBITMAP<T> *convert_vecbitmap(const mxArray *A) /
+convert_winsize_field	mexutil.cpp	/^BITMAP *convert_winsize_field(Params *p, const mxA/
+copy_image	nn.cpp	/^BITMAP *copy_image(BITMAP *a) {$/
+copy_vbmp	knn.cpp	/^VBMP *copy_vbmp(VBMP *a) {$/
+cores	console_test_knn.m	2
+cores	#test_knn.m#	2
+cores	test_knn.m	2
+cores	test_mex.m	15
+cores	test_mex.m~	15
+create_bitmap	allegro_emu.cpp	/^BITMAP *create_bitmap(int w, int h) {$/
+create_bitmap_ex	allegro_emu.cpp	/^BITMAP *create_bitmap_ex(int depth, int w, int h) /
+create_principal_angle	knn.cpp	/^PRINCIPAL_ANGLE *create_principal_angle(Params *p,/
+create_vecbitmap_arb	nn.cpp	/^VECBITMAP_ARB *create_vecbitmap_arb(int w, int h) /
+cé1∏î	a.png	693
+data	allegro_emu.h	8
+data_energy	knn.cpp	/^double data_energy(int k, double d2) {$/
+data_energy_for	knn.cpp	/^double data_energy_for(Params *p, BITMAP *a, int */
+destroy_bitmap	allegro_emu.cpp	/^void destroy_bitmap(BITMAP *bmp) {$/
+destroy_principal_angle	knn.cpp	/^void destroy_principal_angle(PRINCIPAL_ANGLE *b) {/
+destroy_region_masks	nn.cpp	/^void destroy_region_masks(RegionMasks *m) {$/
+destroy_vecbitmap_arb	nn.cpp	/^void destroy_vecbitmap_arb(VECBITMAP_ARB *bmp) {$/
+dist	pm_minimal.cpp	/^int dist(BITMAP *a, BITMAP *b, int ax, int ay, int/
+div_rounddown	knn.cpp	/^int div_rounddown(int x, int y) {$/
+dprev	knn.cpp	1163
+e	a.png	107
+enrich_ok	knn.cpp	3629
+extract_vbmp	knn.cpp	/^BITMAP *extract_vbmp(VBMP *bmp, int i) {$/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<1, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<2, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<3, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<4, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<5, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<6, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	patch.cpp	/^int fast_patch_dist<7, 0>(int *adata, BITMAP *b, i/
+fast_patch_dist	#patch.h#	/^int fast_patch_dist(int *adata, BITMAP *b, int bx,/
+fast_patch_dist	patch.h	/^int fast_patch_dist(int *adata, BITMAP *b, int bx,/
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<1, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<2, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<3, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<4, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<5, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<6, 0>(int *adata, BITMAP */
+fast_patch_nobranch	patch.cpp	/^int fast_patch_nobranch<7, 0>(int *adata, BITMAP */
+fast_patch_nobranch	#patch.h#	/^int fast_patch_nobranch(int *adata, BITMAP *b, int/
+fast_patch_nobranch	patch.h	/^int fast_patch_nobranch(int *adata, BITMAP *b, int/
+fflush	nn.h	64
+fflush	nn.h~	64
+figure	find_ann0.m	2
+fixed	allegro_emu.h	22
+fixmul	allegro_emu.cpp	/^fixed fixmul(fixed a0, fixed b0) {$/
+flat	find_ann0.m	2
+for_each	knn.cpp	/^#define for_each(type, it, L) for (type::iterator /
+forward_enrich_hops	knn.cpp	3003
+gauss1d	nn.cpp	/^double gauss1d(double mu, double sigma) {$/
+gauss_table_init	nn.cpp	1269
+gaussian_blur16	knn.cpp	/^BITMAP *gaussian_blur16(BITMAP *a, double sigma) {/
+gaussian_deriv_angle	knn.cpp	/^BITMAP *gaussian_deriv_angle(BITMAP *a, double sig/
+gcc	build_mac.m	1
+get_abox	nn.cpp	/^Box get_abox(Params *p, BITMAP *a, RegionMasks *am/
+get_abox_vec	vecnn.h	/^Box get_abox_vec(Params *p, VECBITMAP<T> *a, Regio/
+get_best	knn.cpp	/^void get_best(Params *p, int *&ann, int *annd, int/
+get_maxval	vecnn.cpp	/^template<> int get_maxval() { return INT_MAX; }$/
+get_maxval	vecnn.cpp	/^template<> float get_maxval() { return FLT_MAX; }$/
+get_maxval	vecnn.cpp	/^template<> double get_maxval() { return DBL_MAX; }/
+get_maxval	vecnn.cpp	/^template<> long long get_maxval() { return LLONG_M/
+get_maxval	vecnn.h	/^T get_maxval() { fprintf(stderr, "get_maxval of un/
+get_principal_angle	knn.cpp	/^int get_principal_angle(Params *p, PRINCIPAL_ANGLE/
+get_xform	simnn.cpp	/^XFORM get_xform(Params *p, int x, int y, int scale/
+getb32	allegro_emu.h	/^inline int getb32(int c) { return (c>>16)&255; }$/
+getg32	allegro_emu.h	/^inline int getg32(int c) { return (c>>8)&255; }$/
+getnn	nn.cpp	/^void getnn(BITMAP *ann, int x, int y, int &xp, int/
+getpixel_bilin	simnn.cpp	/^void getpixel_bilin(BITMAP *bimg, int bx, int by, /
+getr32	allegro_emu.h	/^inline int getr32(int c) { return c&255; }$/
+greyscale	knn.cpp	/^BITMAP *greyscale(BITMAP *a) {$/
+greyscale16	knn.cpp	/^BITMAP *greyscale16(BITMAP *a) {$/
+greyscale16_to_color	knn.cpp	/^BITMAP *greyscale16_to_color(BITMAP *a) {$/
+greyscale_to_color	knn.cpp	/^BITMAP *greyscale_to_color(BITMAP *a) {$/
+g°O	a.png	684
+h	allegro_emu.h	6
+hAx	find_ann0.m	7
+hFig	find_ann0.m	6
+hash_set	knn.cpp	45
+horiz_gaussian_blur	knn.cpp	/^BITMAP *horiz_gaussian_blur(BITMAP *a, double sigm/
+improve_guess	pm_minimal.cpp	/^void improve_guess(BITMAP *a, BITMAP *b, int ax, i/
+imshow	#test_knn.m#	/^imshow(cnn(:,:,1,4),'test24.png', [])$/
+imshow	test_knn.m	/^imshow(cnn(:,:,1,4),'test24.png', [])$/
+imshow	test_rot_scale.m	/^imshow(cnn(:,:,1),[])$/
+init_dist	nn.cpp	/^BITMAP *init_dist(Params *p, BITMAP *a, BITMAP *b,/
+init_dist_n	nn.cpp	/^BITMAP *init_dist_n(Params *p, BITMAP *a, BITMAP */
+init_gauss_table	nn.cpp	/^void init_gauss_table() {$/
+init_nn	nn.cpp	/^BITMAP *init_nn(Params *p, BITMAP *a, BITMAP *b, B/
+init_openmp	nn.cpp	/^void init_openmp(Params *p) {$/
+init_params	nn.cpp	/^void init_params(Params *p) {$/
+init_xform_tables	simnn.cpp	/^void init_xform_tables(double SCALE_MIN, double SC/
+insert_vbmp	knn.cpp	/^void insert_vbmp(VBMP *bmp, int i, BITMAP *a) {$/
+inverse_enrich_hops	knn.cpp	3004
+is_float	nnmex.cpp	/^int is_float(const mxArray *A) {$/
+is_window	nn.cpp	/^int is_window(Params *p) {$/
+j	a.png	107
+knn	knn.cpp	/^void knn(Params *p, BITMAP *a, BITMAP *b,$/
+knn_attempt_n	knn.cpp	/^void knn_attempt_n(vector<qtype<int> > &q, int *ad/
+knn_avg_dist	knn.cpp	/^double knn_avg_dist(Params *p, VBMP *annd) {$/
+knn_check	knn.cpp	/^void knn_check(Params *p, BITMAP *a, BITMAP *b, VB/
+knn_check_n	knn.cpp	/^void knn_check_n(Params *p, BITMAP *a, BITMAP *b, /
+knn_enrich	knn.cpp	/^void knn_enrich(Params *p, BITMAP *a, BITMAP *b, V/
+knn_enrich3	knn.cpp	/^void knn_enrich3(Params *p, BITMAP *a, BITMAP *b, /
+knn_enrich3_n	knn.cpp	/^void knn_enrich3_n(Params *p, BITMAP *a, BITMAP *b/
+knn_enrich4	knn.cpp	/^void knn_enrich4(Params *p, BITMAP *a, BITMAP *b, /
+knn_enrich4_n	knn.cpp	/^void knn_enrich4_n(Params *p, BITMAP *a, BITMAP *b/
+knn_enrich_n	knn.cpp	/^void knn_enrich_n(Params *p, BITMAP *a, BITMAP *b,/
+knn_init_dist	knn.cpp	/^VBMP *knn_init_dist(Params *p, BITMAP *a, BITMAP */
+knn_init_dist_n	knn.cpp	/^VBMP *knn_init_dist_n(Params *p, BITMAP *a, BITMAP/
+knn_init_nn	knn.cpp	/^VBMP *knn_init_nn(Params *p, BITMAP *a, BITMAP *b,/
+knn_inverse_enrich	knn.cpp	/^void knn_inverse_enrich(Params *p, BITMAP *a, BITM/
+knn_inverse_enrich2	knn.cpp	/^void knn_inverse_enrich2(Params *p, BITMAP *a, BIT/
+knn_inverse_enrich2_n	knn.cpp	/^void knn_inverse_enrich2_n(Params *p, BITMAP *a, B/
+knn_inverse_enrich_n	knn.cpp	/^void knn_inverse_enrich_n(Params *p, BITMAP *a, BI/
+knn_min_pair	knn.cpp	/^void knn_min_pair(Params *p, BITMAP *a, BITMAP *b,/
+knn_min_pair_n	knn.cpp	/^void knn_min_pair_n(Params *p, BITMAP *a, BITMAP */
+knn_n	knn.cpp	/^void knn_n(Params *p, BITMAP *a, BITMAP *b,$/
+knn_n_avoid	knn.cpp	/^void knn_n_avoid(Params *p, BITMAP *a, BITMAP *b,$/
+knn_n_top1nn	knn.cpp	/^void knn_n_top1nn(Params *p, BITMAP *a, BITMAP *b,/
+knn_n_window	knn.cpp	/^void knn_n_window(Params *p, BITMAP *a, BITMAP *b,/
+knn_norm_image	knn.cpp	/^BITMAP *knn_norm_image(Params *p, double *accum, i/
+knn_oneway	knn.cpp	/^void knn_oneway(Params *p, BITMAP *a, BITMAP *b,$/
+knn_pair	knn.cpp	399
+knn_pair::a	knn.cpp	400
+knn_pair::b	knn.cpp	400
+knn_pair::knn_pair	knn.cpp	/^  knn_pair(const T a_, const T b_) :a(a_), b(b_) {/
+knn_pair::operator <	knn.cpp	/^  int operator < (const knn_pair &b) const {$/
+knn_pair::operator ==	knn.cpp	/^  int operator == (const knn_pair &b) const {$/
+knn_smooth2	knn.cpp	/^BITMAP *knn_smooth2(Params *p, BITMAP *a, BITMAP */
+knn_vis	knn.cpp	/^void knn_vis(Params *p, BITMAP *a, VBMP *ann0, VBM/
+knn_vote	knn.cpp	/^BITMAP *knn_vote(Params *p, BITMAP *b,$/
+knn_vote_n	knn.cpp	/^BITMAP *knn_vote_n(Params *p, BITMAP *b,$/
+knn_vote_solve	knn.cpp	/^BITMAP *knn_vote_solve(Params *p, BITMAP *b,$/
+last_cores	nn.cpp	58
+line	allegro_emu.h	7
+load_bitmap	pm_minimal.cpp	/^BITMAP *load_bitmap(const char *filename) {$/
+long	#test_knn.m#	15
+long	test_knn.m	15
+map_offset	knn.cpp	/^void map_offset(int &dx, int &dy) {$/
+mexFunction	nnmex.cpp	/^void mexFunction(int nout, mxArray *pout[], int ni/
+mexFunction	votemex.cpp	/^void mexFunction(int nout, mxArray *pout[], int ni/
+minnn	nn.cpp	/^void minnn(Params *p, BITMAP *a, BITMAP *b, BITMAP/
+minnn_n	nn.cpp	/^void minnn_n(Params *p, BITMAP *a, BITMAP *b, BITM/
+mxStringEquals	mexutil.cpp	/^int mxStringEquals(const mxArray *A, const char *s/
+mÕÕmõúç	b.png	246
+nn	nn.cpp	/^void nn(Params *p, BITMAP *a, BITMAP *b,$/
+nn_n	nn.cpp	/^void nn_n(Params *p, BITMAP *a, BITMAP *b,$/
+nn_n_cputiled	nn.cpp	/^void nn_n_cputiled(Params *p, BITMAP *a, BITMAP *b/
+nn_n_fullrand	nn.cpp	/^void nn_n_fullrand(Params *p, BITMAP *a, BITMAP *b/
+nn_n_gpucpu	nn.cpp	/^void nn_n_gpucpu(Params *p, BITMAP *a, BITMAP *b,$/
+nn_n_proponly	nn.cpp	/^void nn_n_proponly(Params *p, BITMAP *a, BITMAP *b/
+norm_channel	knn.cpp	/^int norm_channel(Params *p, const vector<pair<int,/
+norm_image	nn.cpp	/^BITMAP *norm_image(double *accum, int w, int h) {$/
+norm_image	nn.cpp	/^BITMAP *norm_image(int *accum, int w, int h) {$/
+norm_image_init	nn.cpp	/^BITMAP *norm_image_init(int *accum, int w, int h, /
+norm_image_init	nn.cpp	/^BITMAP *norm_image_init(double *accum, int w, int /
+normalize_bitmap	knn.cpp	/^void normalize_bitmap(BITMAP *ans) {$/
+out	writeim.m	1
+patch_dist	nn.cpp	/^int patch_dist(Params *p, BITMAP *a, int ax, int a/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<1, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<2, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<3, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<4, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<5, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<6, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	patch.cpp	/^int patch_dist_ab<7, 0, 0>(Params *p, BITMAP *a, i/
+patch_dist_ab	#patch.h#	/^int patch_dist_ab(Params *p, BITMAP *a, int ax, in/
+patch_dist_ab	patch.h	/^int patch_dist_ab(Params *p, BITMAP *a, int ax, in/
+patch_w	console_test_descriptor_mex.m	33
+patch_w	console_test_descriptor_mex.m	54
+patch_w	console_test_mex.m	26
+patch_w	console_test_mex.m	46
+patch_w	pm_minimal.cpp	97
+patch_w	test_descriptor_mex.m	35
+patch_w	test_descriptor_mex.m	59
+patch_w	#test_mex.m#	26
+patch_w	#test_mex.m#	49
+patch_w	test_mex.m	37
+patch_w	test_mex.m	65
+patch_w	test_mex.m~	37
+patch_w	test_mex.m~	65
+patches	console_test_descriptor_mex.m	53
+patches	console_test_mex.m	45
+patches	test_descriptor_mex.m	58
+patches	#test_mex.m#	48
+patches	test_mex.m	64
+patches	test_mex.m~	64
+patchmatch	pm_minimal.cpp	/^void patchmatch(BITMAP *a, BITMAP *b, BITMAP *&ann/
+patsearch	knn.cpp	/^double patsearch(ObjectiveFunc *f, double *x, doub/
+pm_iters	pm_minimal.cpp	98
+printf	nn.h	61
+printf	nn.h	63
+printf	nn.h~	61
+printf	nn.h~	63
+qtype	knn.cpp	411
+qtype	knn.cpp	413
+rand	nn.cpp	16
+rand2	nn.cpp	/^inline unsigned int rand2() {$/
+rand2_u	nn.cpp	21
+randi	nn.cpp	/^unsigned int randi(unsigned int u) {$/
+random	nn.cpp	/^#define random() (rand()*(1.0\/(RAND_MAX-1)))$/
+randomi	nn.cpp	/^#define randomi(u) (randi(u)*(1.0\/(RAND_MAX-1)))$/
+roundup_pow2	knn.cpp	/^int roundup_pow2(int x) {$/
+rs_iters	test_mex.m	17
+rs_iters	test_mex.m~	17
+rs_max	pm_minimal.cpp	99
+rs_max	test_mex.m	32
+rs_max	test_mex.m~	32
+sample_gaussian	nn.cpp	/^void sample_gaussian(int &dx, int &dy, double sigm/
+sample_xform	knn.cpp	/^BITMAP *sample_xform(Params *p, BITMAP *a, XFORM b/
+save_bitmap	pm_minimal.cpp	/^void save_bitmap(BITMAP *bmp, const char *filename/
+save_dist	knn.cpp	/^void save_dist(Params *p, VBMP *annd, const char */
+save_dist_count	knn.cpp	1162
+save_vecbitmap_arb	nn.cpp	/^void save_vecbitmap_arb(const char *filename, VECB/
+sim_attempt_n	simpatch.h	/^void sim_attempt_n(int &err, int &xbest, int &ybes/
+sim_fast_patch_dist	simpatch.h	/^int sim_fast_patch_dist(int *adata, BITMAP *b, XFO/
+sim_init_dist	simnn.cpp	/^BITMAP *sim_init_dist(Params *p, BITMAP *a, BITMAP/
+sim_init_dist_n	simnn.cpp	/^BITMAP *sim_init_dist_n(Params *p, BITMAP *a, BITM/
+sim_init_nn	simnn.cpp	/^BITMAP *sim_init_nn(Params *p, BITMAP *a, BITMAP */
+sim_nn	simnn.cpp	/^void sim_nn(Params *p, BITMAP *a, BITMAP *b,$/
+sim_nn_n	simnn.cpp	/^void sim_nn_n(Params *p, BITMAP *a, BITMAP *b,$/
+sim_patch_dist_ab	simpatch.h	/^int sim_patch_dist_ab(Params *p, BITMAP *a, int ax/
+sim_vote	simnn.cpp	/^BITMAP *sim_vote(Params *p, BITMAP *b,$/
+sim_vote_n	simnn.cpp	/^BITMAP *sim_vote_n(Params *p, BITMAP *b,$/
+smooth_coherent	knn.cpp	/^void smooth_coherent(Params *p, BITMAP *a, BITMAP /
+smooth_energy	knn.cpp	/^double smooth_energy(int x1, int y1, int x2, int y/
+smooth_energy_for	knn.cpp	/^double smooth_energy_for(Params *p, BITMAP *a, VBM/
+sort_knn	knn.cpp	/^void sort_knn(Params *p, VBMP *ann, VBMP *ann_sim,/
+sort_vecbitmap_arb	nn.cpp	/^void sort_vecbitmap_arb(VECBITMAP_ARB *bmp) {$/
+srand2	nn.cpp	/^void srand2(unsigned seed) {$/
+std	nn.h	21
+std	nn.h~	21
+t_linear	knn.cpp	944
+tic	console_test_descriptor_mex.m	38
+tic	console_test_descriptor_mex.m	69
+tic	console_test_descriptor_mex.m	75
+tic	console_test_knn.m	7
+tic	console_test_mex.m	30
+tic	console_test_mex.m	61
+tic	console_test_mex.m	67
+tic	console_test_rot_scale.m	4
+tic	test_descriptor_mex.m	40
+tic	test_descriptor_mex.m	74
+tic	test_descriptor_mex.m	81
+tic	#test_knn.m#	7
+tic	test_knn.m	7
+tic	#test_mex.m#	30
+tic	#test_mex.m#	64
+tic	#test_mex.m#	71
+tic	test_mex.m	41
+tic	test_mex.m	80
+tic	test_mex.m	87
+tic	test_mex.m~	41
+tic	test_mex.m~	80
+tic	test_mex.m~	87
+tic	test_rot_scale.m	4
+transpose16	knn.cpp	/^BITMAP *transpose16(BITMAP *bmp) {$/
+triple	knn.cpp	390
+triple::a	knn.cpp	391
+triple::b	knn.cpp	391
+triple::c	knn.cpp	391
+triple::operator <	knn.cpp	/^  int operator < (const triple &b) const {$/
+triple::triple	knn.cpp	/^  triple(const T a_, const T b_, const T c_) :a(a_/
+u	b.png	245
+user	console_test_descriptor_mex.m	87
+user	console_test_descriptor_mex.m	92
+user	console_test_mex.m	80
+user	console_test_mex.m	85
+user	test_descriptor_mex.m	96
+user	test_descriptor_mex.m	101
+user	#test_mex.m#	85
+user	#test_mex.m#	90
+user	test_mex.m	101
+user	test_mex.m	106
+user	test_mex.m~	101
+user	test_mex.m~	106
+vec_attempt_n	vecpatch.h	/^void vec_attempt_n(ACCUM &err, int &xbest, int &yb/
+vec_fast_patch_dist	vecpatch.h	/^ACCUM vec_fast_patch_dist(T *apatch, T *bpatch, AC/
+vec_fast_patch_nobranch	vecpatch.h	/^ACCUM vec_fast_patch_nobranch(T *apatch, T *bpatch/
+vec_init_dist	vecnn.h	/^VECBITMAP<ACCUM> *vec_init_dist(Params *p, VECBITM/
+vec_init_dist_n	vecnn.h	/^VECBITMAP<ACCUM> *vec_init_dist_n(Params *p, VECBI/
+vec_init_nn	vecnn.h	/^BITMAP *vec_init_nn(Params *p, VECBITMAP<T> *a, VE/
+vec_minnn	vecnn.h	/^void vec_minnn(Params *p, VECBITMAP<T> *a, VECBITM/
+vec_minnn_n	vecnn.h	/^void vec_minnn_n(Params *p, VECBITMAP<T> *a, VECBI/
+vec_nn	vecnn.h	/^void vec_nn(Params *p, VECBITMAP<T> *a, VECBITMAP</
+vec_nn_n	vecnn.h	/^void vec_nn_n(Params *p, VECBITMAP<T> *a, VECBITMA/
+vec_patch_dist_ab	vecpatch.h	/^ACCUM vec_patch_dist_ab(Params *p, VECBITMAP<T> *a/
+vecbitmap_to_bitmap	vecnn.cpp	/^BITMAP *vecbitmap_to_bitmap(VECBITMAP<int> *a) {$/
+vecwrap_init_dist	vecnn.cpp	/^BITMAP *vecwrap_init_dist(int vec_mode, Params *p,/
+vecwrap_init_nn	vecnn.cpp	/^BITMAP *vecwrap_init_nn(int vec_mode, Params *p, B/
+vecwrap_nn	vecnn.cpp	/^void vecwrap_nn(int vec_mode, Params *p, BITMAP *a/
+vecwrap_vote	vecnn.cpp	/^BITMAP *vecwrap_vote(int vec_mode, Params *p, BITM/
+vote	nn.cpp	/^BITMAP *vote(Params *p, BITMAP *b,$/
+vote_n	nn.cpp	/^BITMAP *vote_n(Params *p, BITMAP *b,$/
+vote_n_cputiled	nn.cpp	/^BITMAP *vote_n_cputiled(Params *p, BITMAP *b,$/
+vote_n_openmp	nn.cpp	/^BITMAP *vote_n_openmp(Params *p, BITMAP *b,$/
+w	allegro_emu.h	6
+window_constraint	nn.cpp	/^int window_constraint(Params *p, BITMAP *a, BITMAP/
+window_constraint_wrap	vecnn.h	/^int window_constraint_wrap(Params *p, VECBITMAP<T>/
+wrap_vecbitmap	vecnn.h	/^inline BITMAP *wrap_vecbitmap(VECBITMAP<T> *a) {$/
+write_unsigned	nn.cpp	/^inline void write_unsigned(FILE *f, unsigned x) {$/
+write_weights	knn.cpp	3198
+writeim	console_test_knn.m	/^writeim(cnn(:,:,1,1),'test17.png')$/
+writeim	console_test_knn.m	/^writeim(cnn(:,:,1,1),'test21.png')$/
+writeim	console_test_rot_scale.m	/^writeim(cnn(:,:,1),'test7.png')$/
+xform_cos_table	simnn.cpp	42
+xform_scale_table	simnn.cpp	44
+xform_sin_table	simnn.cpp	43
+xform_tables_init	simnn.cpp	50
+xoffSet	find_ann0.m	5
+xÙRûwá›4ç	a.png	179
+yoffSet	find_ann0.m	4
+~	a.png	703
+≤€^	b.png	251

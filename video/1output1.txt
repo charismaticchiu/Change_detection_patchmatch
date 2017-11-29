@@ -1,0 +1,600 @@
+Croped pano: ./video/1/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg; counterpart dash cam image: video/1/image-134.jpg
+number of iter: 1; max coef of normxcorr: 0.73018; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg___image-134.jpg
+
+Croped pano: ./video/1/pano_KX1HttzVQ0rwEfCdepA7Yg_180.jpg; counterpart dash cam image: video/1/image-061.jpg
+number of iter: 2; max coef of normxcorr: 0.51732; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_KX1HttzVQ0rwEfCdepA7Yg_180.jpg___image-061.jpg
+
+Croped pano: ./video/1/pano_qCwMwcRWf5zaRfvShv5NKw_180.jpg; counterpart dash cam image: video/1/image-111.jpg
+number of iter: 3; max coef of normxcorr: 0.51678; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_qCwMwcRWf5zaRfvShv5NKw_180.jpg___image-111.jpg
+
+Croped pano: ./video/1/pano_qCwMwcRWf5zaRfvShv5NKw_0.jpg; counterpart dash cam image: video/1/image-111.jpg
+number of iter: 6; max coef of normxcorr: 0.49583; A"s expanding ratio: 1.4517
+croped image path: ./video/1/croped/pano_qCwMwcRWf5zaRfvShv5NKw_0.jpg___image-111.jpg
+
+Croped pano: ./video/1/pano_Cz1XGEkUmo1FMGe-X5LmqQ_180.jpg; counterpart dash cam image: video/1/image-195.jpg
+number of iter: 1; max coef of normxcorr: 0.66903; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Cz1XGEkUmo1FMGe-X5LmqQ_180.jpg___image-195.jpg
+
+Croped pano: ./video/1/pano_QqVu4U5nlWcyX6mTK6nPSw_180.jpg; counterpart dash cam image: video/1/image-075.jpg
+number of iter: 1; max coef of normxcorr: 0.60011; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_QqVu4U5nlWcyX6mTK6nPSw_180.jpg___image-075.jpg
+
+Croped pano: ./video/1/pano_QqVu4U5nlWcyX6mTK6nPSw_0.jpg; counterpart dash cam image: video/1/image-081.jpg
+number of iter: 1; max coef of normxcorr: 0.61313; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_QqVu4U5nlWcyX6mTK6nPSw_0.jpg___image-081.jpg
+
+Croped pano: ./video/1/pano_TcaekpBdyggUppryf_IRYw_180.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.48556; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_TcaekpBdyggUppryf_IRYw_180.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_TcaekpBdyggUppryf_IRYw_0.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.47936; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_TcaekpBdyggUppryf_IRYw_0.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_jk4duqXDkF9E43eHQPXKeA_180.jpg; counterpart dash cam image: video/1/image-180.jpg
+number of iter: 1; max coef of normxcorr: 0.66727; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_jk4duqXDkF9E43eHQPXKeA_180.jpg___image-180.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.53991; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_0.jpg; counterpart dash cam image: video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.52113; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_0.jpg___image-107.jpg
+
+Croped pano: ./video/1/pano_RVbUDML3YRftbaQEoo0nDw_180.jpg; counterpart dash cam image: video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.51955; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_RVbUDML3YRftbaQEoo0nDw_180.jpg___image-107.jpg
+
+Croped pano: ./video/1/pano_RVbUDML3YRftbaQEoo0nDw_0.jpg; counterpart dash cam image: video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.50606; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_RVbUDML3YRftbaQEoo0nDw_0.jpg___image-107.jpg
+
+Croped pano: ./video/1/pano_Fy-9PHPSAA9mfqhJIuyWBg_180.jpg; counterpart dash cam image: video/1/image-298.jpg
+number of iter: 1; max coef of normxcorr: 0.61602; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Fy-9PHPSAA9mfqhJIuyWBg_180.jpg___image-298.jpg
+
+Croped pano: ./video/1/pano_Fy-9PHPSAA9mfqhJIuyWBg_0.jpg; counterpart dash cam image: video/1/image-304.jpg
+number of iter: 1; max coef of normxcorr: 0.67672; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Fy-9PHPSAA9mfqhJIuyWBg_0.jpg___image-304.jpg
+
+Croped pano: ./video/1/pano_447xA85XXmI3tURr8I0q-A_180.jpg; counterpart dash cam image: video/1/image-322.jpg
+number of iter: 30; max coef of normxcorr: 0.40845; A"s expanding ratio: 1.8432
+croped image path: ./video/1/croped/pano_447xA85XXmI3tURr8I0q-A_180.jpg___image-322.jpg
+
+Croped pano: ./video/1/pano_447xA85XXmI3tURr8I0q-A_0.jpg; counterpart dash cam image: video/1/image-322.jpg
+number of iter: 24; max coef of normxcorr: 0.43271; A"s expanding ratio: 1.7364
+croped image path: ./video/1/croped/pano_447xA85XXmI3tURr8I0q-A_0.jpg___image-322.jpg
+
+Croped pano: ./video/1/pano_KQuzAfqR2L7yjijEVPynBw_180.jpg; counterpart dash cam image: video/1/image-289.jpg
+number of iter: 6; max coef of normxcorr: 0.52772; A"s expanding ratio: 1.4517
+croped image path: ./video/1/croped/pano_KQuzAfqR2L7yjijEVPynBw_180.jpg___image-289.jpg
+
+Croped pano: ./video/1/pano_KQuzAfqR2L7yjijEVPynBw_0.jpg; counterpart dash cam image: video/1/image-289.jpg
+number of iter: 10; max coef of normxcorr: 0.51018; A"s expanding ratio: 1.5106
+croped image path: ./video/1/croped/pano_KQuzAfqR2L7yjijEVPynBw_0.jpg___image-289.jpg
+
+Croped pano: ./video/1/pano_EnBlp5wMeieLypV-nabt8A_180.jpg; counterpart dash cam image: video/1/image-253.jpg
+number of iter: 1; max coef of normxcorr: 0.61157; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_EnBlp5wMeieLypV-nabt8A_180.jpg___image-253.jpg
+
+Croped pano: ./video/1/pano_EnBlp5wMeieLypV-nabt8A_0.jpg; counterpart dash cam image: video/1/image-254.jpg
+number of iter: 6; max coef of normxcorr: 0.56181; A"s expanding ratio: 1.4517
+croped image path: ./video/1/croped/pano_EnBlp5wMeieLypV-nabt8A_0.jpg___image-254.jpg
+
+Croped pano: ./video/1/pano_t9fdecWnMlJOxti2X1Vo_Q_180.jpg; counterpart dash cam image: video/1/image-106.jpg
+number of iter: 1; max coef of normxcorr: 0.5133; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_t9fdecWnMlJOxti2X1Vo_Q_180.jpg___image-106.jpg
+
+Croped pano: ./video/1/pano_t9fdecWnMlJOxti2X1Vo_Q_0.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.48631; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_t9fdecWnMlJOxti2X1Vo_Q_0.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_w6Q2zLJhbyxrzl8qQycLSA_0.jpg; counterpart dash cam image: video/1/image-128.jpg
+number of iter: 1; max coef of normxcorr: 0.65649; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_w6Q2zLJhbyxrzl8qQycLSA_0.jpg___image-128.jpg
+
+Croped pano: ./video/1/pano_hqcYe9M2JJCMvSJqkEitUQ_0.jpg; counterpart dash cam image: video/1/image-127.jpg
+number of iter: 5; max coef of normxcorr: 0.66943; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_hqcYe9M2JJCMvSJqkEitUQ_0.jpg___image-127.jpg
+
+Croped pano: ./video/1/pano_eDZyUEnMTVQzMkIObyTWBA_180.jpg; counterpart dash cam image: video/1/image-034.jpg
+number of iter: 1; max coef of normxcorr: 0.62854; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_eDZyUEnMTVQzMkIObyTWBA_180.jpg___image-034.jpg
+
+Croped pano: ./video/1/pano_V4KGVdhh8Z9JW19_NnTuaQ_0.jpg; counterpart dash cam image: video/1/image-142.jpg
+number of iter: 2; max coef of normxcorr: 0.67951; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_V4KGVdhh8Z9JW19_NnTuaQ_0.jpg___image-142.jpg
+
+Croped pano: ./video/1/pano_Lb3o9SKOh3l_1U_-85lojw_180.jpg; counterpart dash cam image: video/1/image-105.jpg
+number of iter: 1; max coef of normxcorr: 0.53788; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Lb3o9SKOh3l_1U_-85lojw_180.jpg___image-105.jpg
+
+Croped pano: ./video/1/pano_Lb3o9SKOh3l_1U_-85lojw_0.jpg; counterpart dash cam image: video/1/image-105.jpg
+number of iter: 1; max coef of normxcorr: 0.54003; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Lb3o9SKOh3l_1U_-85lojw_0.jpg___image-105.jpg
+
+Croped pano: ./video/1/pano_eS2g-2UnKDfN-xaSug5mVQ_180.jpg; counterpart dash cam image: video/1/image-074.jpg
+number of iter: 2; max coef of normxcorr: 0.54714; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_eS2g-2UnKDfN-xaSug5mVQ_180.jpg___image-074.jpg
+
+Croped pano: ./video/1/pano_LrgVdj_nng8cQBHvXdPwHA_0.jpg; counterpart dash cam image: video/1/image-131.jpg
+number of iter: 1; max coef of normxcorr: 0.69782; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_LrgVdj_nng8cQBHvXdPwHA_0.jpg___image-131.jpg
+
+Croped pano: ./video/1/pano_2mZNwaSxXNdANuVRZnfCDQ_180.jpg; counterpart dash cam image: video/1/image-082.jpg
+number of iter: 1; max coef of normxcorr: 0.54827; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_2mZNwaSxXNdANuVRZnfCDQ_180.jpg___image-082.jpg
+
+Croped pano: ./video/1/pano_2mZNwaSxXNdANuVRZnfCDQ_0.jpg; counterpart dash cam image: video/1/image-082.jpg
+number of iter: 6; max coef of normxcorr: 0.59066; A"s expanding ratio: 1.4517
+croped image path: ./video/1/croped/pano_2mZNwaSxXNdANuVRZnfCDQ_0.jpg___image-082.jpg
+
+Croped pano: ./video/1/pano_A0Tw0MFkaYtjhIW-KQChzQ_0.jpg; counterpart dash cam image: video/1/image-118.jpg
+number of iter: 1; max coef of normxcorr: 0.59784; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_A0Tw0MFkaYtjhIW-KQChzQ_0.jpg___image-118.jpg
+
+Croped pano: ./video/1/pano_Sl2SnxtRghzwn33FpCHEyw_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.68358; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Sl2SnxtRghzwn33FpCHEyw_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_GSDlhSMjTHfvONZkPEhEfA_180.jpg; counterpart dash cam image: video/1/image-131.jpg
+number of iter: 1; max coef of normxcorr: 0.62272; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_GSDlhSMjTHfvONZkPEhEfA_180.jpg___image-131.jpg
+
+Croped pano: ./video/1/pano_GSDlhSMjTHfvONZkPEhEfA_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 5; max coef of normxcorr: 0.67077; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_GSDlhSMjTHfvONZkPEhEfA_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_ctVbOoBTMM7yOUEa1Gg6Bg_180.jpg; counterpart dash cam image: video/1/image-195.jpg
+number of iter: 1; max coef of normxcorr: 0.66189; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_ctVbOoBTMM7yOUEa1Gg6Bg_180.jpg___image-195.jpg
+
+Croped pano: ./video/1/pano_vyTtGu4JAfGzgzzJD1LXFg_180.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 1; max coef of normxcorr: 0.49635; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_vyTtGu4JAfGzgzzJD1LXFg_180.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_vyTtGu4JAfGzgzzJD1LXFg_0.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 1; max coef of normxcorr: 0.50651; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_vyTtGu4JAfGzgzzJD1LXFg_0.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_mIl2DUBmIM_mbgcs0FYAWQ_180.jpg; counterpart dash cam image: video/1/image-076.jpg
+number of iter: 1; max coef of normxcorr: 0.62804; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_mIl2DUBmIM_mbgcs0FYAWQ_180.jpg___image-076.jpg
+
+Croped pano: ./video/1/pano_mIl2DUBmIM_mbgcs0FYAWQ_0.jpg; counterpart dash cam image: video/1/image-081.jpg
+number of iter: 1; max coef of normxcorr: 0.61534; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_mIl2DUBmIM_mbgcs0FYAWQ_0.jpg___image-081.jpg
+
+Croped pano: ./video/1/pano_RqixyXiV0-eK1q3TDUZH8Q_0.jpg; counterpart dash cam image: video/1/image-134.jpg
+number of iter: 1; max coef of normxcorr: 0.69379; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_RqixyXiV0-eK1q3TDUZH8Q_0.jpg___image-134.jpg
+
+Croped pano: ./video/1/pano_Yt7cwTjnmpUAngl12rRC-g_180.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.65876; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Yt7cwTjnmpUAngl12rRC-g_180.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_Yt7cwTjnmpUAngl12rRC-g_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 3; max coef of normxcorr: 0.65654; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_Yt7cwTjnmpUAngl12rRC-g_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_xR7AW2u06nhWywMJjR6uNQ_180.jpg; counterpart dash cam image: video/1/image-114.jpg
+number of iter: 2; max coef of normxcorr: 0.53232; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_xR7AW2u06nhWywMJjR6uNQ_180.jpg___image-114.jpg
+
+Croped pano: ./video/1/pano_ROnxqnTJEBWnHr4X3_-KsQ_180.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.5016; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_ROnxqnTJEBWnHr4X3_-KsQ_180.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_ROnxqnTJEBWnHr4X3_-KsQ_0.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 1; max coef of normxcorr: 0.47555; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_ROnxqnTJEBWnHr4X3_-KsQ_0.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_9zluvmAHofr5e6UdwKgEGA_180.jpg; counterpart dash cam image: video/1/image-079.jpg
+number of iter: 1; max coef of normxcorr: 0.58181; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_9zluvmAHofr5e6UdwKgEGA_180.jpg___image-079.jpg
+
+Croped pano: ./video/1/pano_9zluvmAHofr5e6UdwKgEGA_0.jpg; counterpart dash cam image: video/1/image-082.jpg
+number of iter: 1; max coef of normxcorr: 0.50052; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_9zluvmAHofr5e6UdwKgEGA_0.jpg___image-082.jpg
+
+Croped pano: ./video/1/pano_UvAWhQnl4S_Jqs9tHlCwpw_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.67077; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_UvAWhQnl4S_Jqs9tHlCwpw_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_kVt9670T0uuCLiTWS7aCXA_180.jpg; counterpart dash cam image: video/1/image-104.jpg
+number of iter: 1; max coef of normxcorr: 0.52651; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_kVt9670T0uuCLiTWS7aCXA_180.jpg___image-104.jpg
+
+Croped pano: ./video/1/pano_kVt9670T0uuCLiTWS7aCXA_0.jpg; counterpart dash cam image: video/1/image-104.jpg
+number of iter: 1; max coef of normxcorr: 0.51298; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_kVt9670T0uuCLiTWS7aCXA_0.jpg___image-104.jpg
+
+Croped pano: ./video/1/pano_VZ_vdowct0n8xwD37QGD8g_180.jpg; counterpart dash cam image: video/1/image-255.jpg
+number of iter: 1; max coef of normxcorr: 0.59753; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_VZ_vdowct0n8xwD37QGD8g_180.jpg___image-255.jpg
+
+Croped pano: ./video/1/pano_VZ_vdowct0n8xwD37QGD8g_0.jpg; counterpart dash cam image: video/1/image-255.jpg
+number of iter: 1; max coef of normxcorr: 0.53713; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_VZ_vdowct0n8xwD37QGD8g_0.jpg___image-255.jpg
+
+Croped pano: ./video/1/pano_SKH33LNBvAIvuPtwnMD7BA_180.jpg; counterpart dash cam image: video/1/image-102.jpg
+number of iter: 12; max coef of normxcorr: 0.4779; A"s expanding ratio: 1.541
+croped image path: ./video/1/croped/pano_SKH33LNBvAIvuPtwnMD7BA_180.jpg___image-102.jpg
+
+Croped pano: ./video/1/pano_SKH33LNBvAIvuPtwnMD7BA_0.jpg; counterpart dash cam image: video/1/image-104.jpg
+number of iter: 1; max coef of normxcorr: 0.51321; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_SKH33LNBvAIvuPtwnMD7BA_0.jpg___image-104.jpg
+
+Croped pano: ./video/1/pano_Jzr4g-jTr4vLd0CrbOZtpA_180.jpg; counterpart dash cam image: video/1/image-053.jpg
+number of iter: 10; max coef of normxcorr: 0.69908; A"s expanding ratio: 1.5106
+croped image path: ./video/1/croped/pano_Jzr4g-jTr4vLd0CrbOZtpA_180.jpg___image-053.jpg
+
+Croped pano: ./video/1/pano_WEPkdu8ohpiuBs3A6ayQBg_180.jpg; counterpart dash cam image: video/1/image-104.jpg
+number of iter: 1; max coef of normxcorr: 0.52068; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_WEPkdu8ohpiuBs3A6ayQBg_180.jpg___image-104.jpg
+
+Croped pano: ./video/1/pano_WEPkdu8ohpiuBs3A6ayQBg_0.jpg; counterpart dash cam image: video/1/image-103.jpg
+number of iter: 1; max coef of normxcorr: 0.54991; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_WEPkdu8ohpiuBs3A6ayQBg_0.jpg___image-103.jpg
+
+Croped pano: ./video/1/pano_av-WfNdpaUYB50Q2hZ6hJw_180.jpg; counterpart dash cam image: video/1/image-191.jpg
+number of iter: 1; max coef of normxcorr: 0.66809; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_av-WfNdpaUYB50Q2hZ6hJw_180.jpg___image-191.jpg
+
+Croped pano: ./video/1/pano_r-X_0qPmAxW9boFcKdM98g_180.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 7; max coef of normxcorr: 0.51308; A"s expanding ratio: 1.4662
+croped image path: ./video/1/croped/pano_r-X_0qPmAxW9boFcKdM98g_180.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_r-X_0qPmAxW9boFcKdM98g_0.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 3; max coef of normxcorr: 0.5066; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_r-X_0qPmAxW9boFcKdM98g_0.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_P8mU7WGLAfnuV0ORx6NKNw_0.jpg; counterpart dash cam image: video/1/image-151.jpg
+number of iter: 7; max coef of normxcorr: 0.67792; A"s expanding ratio: 1.4662
+croped image path: ./video/1/croped/pano_P8mU7WGLAfnuV0ORx6NKNw_0.jpg___image-151.jpg
+
+Croped pano: ./video/1/pano_K7Am9p55rNg-QUpzI9B2RQ_0.jpg; counterpart dash cam image: video/1/image-143.jpg
+number of iter: 1; max coef of normxcorr: 0.67444; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_K7Am9p55rNg-QUpzI9B2RQ_0.jpg___image-143.jpg
+
+Croped pano: ./video/1/pano_KX7A5B0QBn3-kt1wJSGukg_180.jpg; counterpart dash cam image: video/1/image-177.jpg
+number of iter: 1; max coef of normxcorr: 0.63522; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_KX7A5B0QBn3-kt1wJSGukg_180.jpg___image-177.jpg
+
+Croped pano: ./video/1/pano_38pKC4ScHBmmlsiO0Qpq0g_180.jpg; counterpart dash cam image: video/1/image-263.jpg
+number of iter: 1; max coef of normxcorr: 0.59254; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_38pKC4ScHBmmlsiO0Qpq0g_180.jpg___image-263.jpg
+
+Croped pano: ./video/1/pano_38pKC4ScHBmmlsiO0Qpq0g_0.jpg; counterpart dash cam image: video/1/image-263.jpg
+number of iter: 1; max coef of normxcorr: 0.58293; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_38pKC4ScHBmmlsiO0Qpq0g_0.jpg___image-263.jpg
+
+Croped pano: ./video/1/pano_UA27czXMPztj4YRiwtcNJg_180.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.47291; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_UA27czXMPztj4YRiwtcNJg_180.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_nf7IFxsFPkxeaTPBQPky2A_180.jpg; counterpart dash cam image: video/1/image-106.jpg
+number of iter: 1; max coef of normxcorr: 0.49017; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_nf7IFxsFPkxeaTPBQPky2A_180.jpg___image-106.jpg
+
+Croped pano: ./video/1/pano_nf7IFxsFPkxeaTPBQPky2A_0.jpg; counterpart dash cam image: video/1/image-110.jpg
+number of iter: 1; max coef of normxcorr: 0.45414; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_nf7IFxsFPkxeaTPBQPky2A_0.jpg___image-110.jpg
+
+Croped pano: ./video/1/pano_tj9cE0hyM_xjFwk9G06G-A_180.jpg; counterpart dash cam image: video/1/image-068.jpg
+number of iter: 1; max coef of normxcorr: 0.52747; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_tj9cE0hyM_xjFwk9G06G-A_180.jpg___image-068.jpg
+
+Croped pano: ./video/1/pano_tj9cE0hyM_xjFwk9G06G-A_0.jpg; counterpart dash cam image: video/1/image-069.jpg
+number of iter: 9; max coef of normxcorr: 0.48742; A"s expanding ratio: 1.4956
+croped image path: ./video/1/croped/pano_tj9cE0hyM_xjFwk9G06G-A_0.jpg___image-069.jpg
+
+Croped pano: ./video/1/pano_k4pyeeNKm62E5so3_GdBbg_180.jpg; counterpart dash cam image: video/1/image-070.jpg
+number of iter: 1; max coef of normxcorr: 0.55394; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_k4pyeeNKm62E5so3_GdBbg_180.jpg___image-070.jpg
+
+Croped pano: ./video/1/pano_Ju90Zkh0X7qlRHLUJlU2xw_180.jpg; counterpart dash cam image: video/1/image-107.jpg
+number of iter: 30; max coef of normxcorr: 0.49268; A"s expanding ratio: 1.8432
+croped image path: ./video/1/croped/pano_Ju90Zkh0X7qlRHLUJlU2xw_180.jpg___image-107.jpg
+
+Croped pano: ./video/1/pano_Ju90Zkh0X7qlRHLUJlU2xw_0.jpg; counterpart dash cam image: video/1/image-106.jpg
+number of iter: 1; max coef of normxcorr: 0.49062; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Ju90Zkh0X7qlRHLUJlU2xw_0.jpg___image-106.jpg
+
+Croped pano: ./video/1/pano_qqZrn_SoNUl6J5U8e7Ad1A_180.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 13; max coef of normxcorr: 0.53084; A"s expanding ratio: 1.5564
+croped image path: ./video/1/croped/pano_qqZrn_SoNUl6J5U8e7Ad1A_180.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: video/1/image-116.jpg
+number of iter: 1; max coef of normxcorr: 0.52802; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___image-116.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_0.jpg; counterpart dash cam image: video/1/image-118.jpg
+number of iter: 1; max coef of normxcorr: 0.60049; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_0.jpg___image-118.jpg
+
+Croped pano: ./video/1/pano_ucQhvUt_Yl8FUBw-mH5JiQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 1; max coef of normxcorr: 0.72727; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_ucQhvUt_Yl8FUBw-mH5JiQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_B5gEPbOFTROBD-bsx5EsYw_0.jpg; counterpart dash cam image: video/1/image-025.jpg
+number of iter: 1; max coef of normxcorr: 0.58698; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_B5gEPbOFTROBD-bsx5EsYw_0.jpg___image-025.jpg
+
+Croped pano: ./video/1/pano_HokHkY49cu0NEfYIC9-jzA_180.jpg; counterpart dash cam image: video/1/image-115.jpg
+number of iter: 1; max coef of normxcorr: 0.60017; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_HokHkY49cu0NEfYIC9-jzA_180.jpg___image-115.jpg
+
+Croped pano: ./video/1/pano_HokHkY49cu0NEfYIC9-jzA_0.jpg; counterpart dash cam image: video/1/image-115.jpg
+number of iter: 30; max coef of normxcorr: 0.56245; A"s expanding ratio: 1.8432
+croped image path: ./video/1/croped/pano_HokHkY49cu0NEfYIC9-jzA_0.jpg___image-115.jpg
+
+Croped pano: ./video/1/pano_dGqEwBugmPTK3XiLVwk24g_180.jpg; counterpart dash cam image: video/1/image-177.jpg
+number of iter: 1; max coef of normxcorr: 0.63028; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_dGqEwBugmPTK3XiLVwk24g_180.jpg___image-177.jpg
+
+Croped pano: ./video/1/pano_cQYWlZpa1irND64fd3xjQg_180.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.65768; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_cQYWlZpa1irND64fd3xjQg_180.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_cQYWlZpa1irND64fd3xjQg_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 12; max coef of normxcorr: 0.66632; A"s expanding ratio: 1.541
+croped image path: ./video/1/croped/pano_cQYWlZpa1irND64fd3xjQg_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_m-RprU2TIp_pviOTGExDtg_180.jpg; counterpart dash cam image: video/1/image-113.jpg
+number of iter: 1; max coef of normxcorr: 0.51383; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_m-RprU2TIp_pviOTGExDtg_180.jpg___image-113.jpg
+
+Croped pano: ./video/1/pano_m-RprU2TIp_pviOTGExDtg_0.jpg; counterpart dash cam image: video/1/image-114.jpg
+number of iter: 1; max coef of normxcorr: 0.48401; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_m-RprU2TIp_pviOTGExDtg_0.jpg___image-114.jpg
+
+Croped pano: ./video/1/pano_dWyLhwgKeb4LpumF6YE2ZQ_180.jpg; counterpart dash cam image: video/1/image-279.jpg
+number of iter: 1; max coef of normxcorr: 0.53745; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_dWyLhwgKeb4LpumF6YE2ZQ_180.jpg___image-279.jpg
+
+Croped pano: ./video/1/pano_dWyLhwgKeb4LpumF6YE2ZQ_0.jpg; counterpart dash cam image: video/1/image-279.jpg
+number of iter: 1; max coef of normxcorr: 0.50151; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_dWyLhwgKeb4LpumF6YE2ZQ_0.jpg___image-279.jpg
+
+Croped pano: ./video/1/pano_w20iSP-IaJrLAT-1lJFvXg_180.jpg; counterpart dash cam image: video/1/image-336.jpg
+number of iter: 1; max coef of normxcorr: 0.63707; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_w20iSP-IaJrLAT-1lJFvXg_180.jpg___image-336.jpg
+
+Croped pano: ./video/1/pano_w20iSP-IaJrLAT-1lJFvXg_0.jpg; counterpart dash cam image: video/1/image-336.jpg
+number of iter: 1; max coef of normxcorr: 0.64682; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_w20iSP-IaJrLAT-1lJFvXg_0.jpg___image-336.jpg
+
+Croped pano: ./video/1/pano_bj6tG1kt_qv85CEC6Ke2oQ_180.jpg; counterpart dash cam image: video/1/image-308.jpg
+number of iter: 1; max coef of normxcorr: 0.62109; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_bj6tG1kt_qv85CEC6Ke2oQ_180.jpg___image-308.jpg
+
+Croped pano: ./video/1/pano_bj6tG1kt_qv85CEC6Ke2oQ_0.jpg; counterpart dash cam image: video/1/image-308.jpg
+number of iter: 10; max coef of normxcorr: 0.62063; A"s expanding ratio: 1.5106
+croped image path: ./video/1/croped/pano_bj6tG1kt_qv85CEC6Ke2oQ_0.jpg___image-308.jpg
+
+Croped pano: ./video/1/pano_UMZ6lclWhOoEXdQoXn_Iew_180.jpg; counterpart dash cam image: video/1/image-228.jpg
+number of iter: 5; max coef of normxcorr: 0.61628; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_UMZ6lclWhOoEXdQoXn_Iew_180.jpg___image-228.jpg
+
+Croped pano: ./video/1/pano_CiUiN2QgZgW_w2nXUbsVDA_180.jpg; counterpart dash cam image: video/1/image-073.jpg
+number of iter: 3; max coef of normxcorr: 0.50737; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_CiUiN2QgZgW_w2nXUbsVDA_180.jpg___image-073.jpg
+
+Croped pano: ./video/1/pano_CiUiN2QgZgW_w2nXUbsVDA_0.jpg; counterpart dash cam image: video/1/image-073.jpg
+number of iter: 1; max coef of normxcorr: 0.50024; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_CiUiN2QgZgW_w2nXUbsVDA_0.jpg___image-073.jpg
+
+Croped pano: ./video/1/pano_sGC1pDD_pCRSfLy0sgV6eg_180.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.66165; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_sGC1pDD_pCRSfLy0sgV6eg_180.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_sGC1pDD_pCRSfLy0sgV6eg_0.jpg; counterpart dash cam image: video/1/image-131.jpg
+number of iter: 5; max coef of normxcorr: 0.65049; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_sGC1pDD_pCRSfLy0sgV6eg_0.jpg___image-131.jpg
+
+Croped pano: ./video/1/pano_3DDCR5Ygd1NHDJGSwjswxg_180.jpg; counterpart dash cam image: video/1/image-230.jpg
+number of iter: 7; max coef of normxcorr: 0.59455; A"s expanding ratio: 1.4662
+croped image path: ./video/1/croped/pano_3DDCR5Ygd1NHDJGSwjswxg_180.jpg___image-230.jpg
+
+Croped pano: ./video/1/pano_3DDCR5Ygd1NHDJGSwjswxg_0.jpg; counterpart dash cam image: video/1/image-228.jpg
+number of iter: 16; max coef of normxcorr: 0.61663; A"s expanding ratio: 1.6035
+croped image path: ./video/1/croped/pano_3DDCR5Ygd1NHDJGSwjswxg_0.jpg___image-228.jpg
+
+Croped pano: ./video/1/pano_gGEeLN7-dPb-0w73sGNg4A_180.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 2; max coef of normxcorr: 0.70583; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_gGEeLN7-dPb-0w73sGNg4A_180.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_gGEeLN7-dPb-0w73sGNg4A_0.jpg; counterpart dash cam image: video/1/image-132.jpg
+number of iter: 1; max coef of normxcorr: 0.71691; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_gGEeLN7-dPb-0w73sGNg4A_0.jpg___image-132.jpg
+
+Croped pano: ./video/1/pano_AMKFNpRFosRjsczXkKjtaQ_180.jpg; counterpart dash cam image: video/1/image-274.jpg
+number of iter: 1; max coef of normxcorr: 0.58878; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_AMKFNpRFosRjsczXkKjtaQ_180.jpg___image-274.jpg
+
+Croped pano: ./video/1/pano_AMKFNpRFosRjsczXkKjtaQ_0.jpg; counterpart dash cam image: video/1/image-274.jpg
+number of iter: 1; max coef of normxcorr: 0.58455; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_AMKFNpRFosRjsczXkKjtaQ_0.jpg___image-274.jpg
+
+Croped pano: ./video/1/pano_J-UAwwDppjRd2a9thyFyeg_0.jpg; counterpart dash cam image: video/1/image-133.jpg
+number of iter: 1; max coef of normxcorr: 0.7066; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_J-UAwwDppjRd2a9thyFyeg_0.jpg___image-133.jpg
+
+Croped pano: ./video/1/pano_RM6uV13w7Zy_mlv4qX6RdQ_180.jpg; counterpart dash cam image: video/1/image-074.jpg
+number of iter: 1; max coef of normxcorr: 0.53589; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_RM6uV13w7Zy_mlv4qX6RdQ_180.jpg___image-074.jpg
+
+Croped pano: ./video/1/pano_vUCCIRvbibPIHNu7opxnUg_0.jpg; counterpart dash cam image: video/1/image-130.jpg
+number of iter: 1; max coef of normxcorr: 0.70488; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_vUCCIRvbibPIHNu7opxnUg_0.jpg___image-130.jpg
+
+Croped pano: ./video/1/pano_gy2Ucw44zb_WVmeQLGcryA_180.jpg; counterpart dash cam image: video/1/image-112.jpg
+number of iter: 2; max coef of normxcorr: 0.49315; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_gy2Ucw44zb_WVmeQLGcryA_180.jpg___image-112.jpg
+
+Croped pano: ./video/1/pano_gy2Ucw44zb_WVmeQLGcryA_0.jpg; counterpart dash cam image: video/1/image-114.jpg
+number of iter: 1; max coef of normxcorr: 0.53918; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_gy2Ucw44zb_WVmeQLGcryA_0.jpg___image-114.jpg
+
+Croped pano: ./video/1/pano_GJxjhbAOSHMLB-kHpZptqw_0.jpg; counterpart dash cam image: video/1/image-128.jpg
+number of iter: 1; max coef of normxcorr: 0.64114; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_GJxjhbAOSHMLB-kHpZptqw_0.jpg___image-128.jpg
+
+Croped pano: ./video/1/pano_wAJl26nR-iM5ZdevqDLSfw_180.jpg; counterpart dash cam image: video/1/image-090.jpg
+number of iter: 12; max coef of normxcorr: 0.56179; A"s expanding ratio: 1.541
+croped image path: ./video/1/croped/pano_wAJl26nR-iM5ZdevqDLSfw_180.jpg___image-090.jpg
+
+Croped pano: ./video/1/pano_wAJl26nR-iM5ZdevqDLSfw_0.jpg; counterpart dash cam image: video/1/image-090.jpg
+number of iter: 1; max coef of normxcorr: 0.55715; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_wAJl26nR-iM5ZdevqDLSfw_0.jpg___image-090.jpg
+
+Croped pano: ./video/1/pano_fvS6wj64LFRekbQhbUX4SQ_180.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 1; max coef of normxcorr: 0.75498; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_fvS6wj64LFRekbQhbUX4SQ_180.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_fvS6wj64LFRekbQhbUX4SQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 1; max coef of normxcorr: 0.7235; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_fvS6wj64LFRekbQhbUX4SQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_HiAnlfaTyLVY7dNsQ1nfAQ_0.jpg; counterpart dash cam image: video/1/image-131.jpg
+number of iter: 2; max coef of normxcorr: 0.67975; A"s expanding ratio: 1.395
+croped image path: ./video/1/croped/pano_HiAnlfaTyLVY7dNsQ1nfAQ_0.jpg___image-131.jpg
+
+Croped pano: ./video/1/pano_vlf9LTObtpViwUUm7xi4sw_180.jpg; counterpart dash cam image: video/1/image-115.jpg
+number of iter: 1; max coef of normxcorr: 0.57137; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_vlf9LTObtpViwUUm7xi4sw_180.jpg___image-115.jpg
+
+Croped pano: ./video/1/pano_vlf9LTObtpViwUUm7xi4sw_0.jpg; counterpart dash cam image: video/1/image-115.jpg
+number of iter: 1; max coef of normxcorr: 0.48561; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_vlf9LTObtpViwUUm7xi4sw_0.jpg___image-115.jpg
+
+Croped pano: ./video/1/pano_hcdmJkJQxM4MMp-toG8C8g_180.jpg; counterpart dash cam image: video/1/image-088.jpg
+number of iter: 4; max coef of normxcorr: 0.52136; A"s expanding ratio: 1.423
+croped image path: ./video/1/croped/pano_hcdmJkJQxM4MMp-toG8C8g_180.jpg___image-088.jpg
+
+Croped pano: ./video/1/pano_hcdmJkJQxM4MMp-toG8C8g_0.jpg; counterpart dash cam image: video/1/image-086.jpg
+number of iter: 1; max coef of normxcorr: 0.49691; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_hcdmJkJQxM4MMp-toG8C8g_0.jpg___image-086.jpg
+
+Croped pano: ./video/1/pano_Sa8Wh6yUBNMKlm5zOBQ-5Q_180.jpg; counterpart dash cam image: video/1/image-072.jpg
+number of iter: 1; max coef of normxcorr: 0.53971; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Sa8Wh6yUBNMKlm5zOBQ-5Q_180.jpg___image-072.jpg
+
+Croped pano: ./video/1/pano_Sa8Wh6yUBNMKlm5zOBQ-5Q_0.jpg; counterpart dash cam image: video/1/image-072.jpg
+number of iter: 1; max coef of normxcorr: 0.58246; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_Sa8Wh6yUBNMKlm5zOBQ-5Q_0.jpg___image-072.jpg
+
+Croped pano: ./video/1/pano_OlyE9-lKcXsKOu3yfdyaYA_180.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.47888; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_OlyE9-lKcXsKOu3yfdyaYA_180.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_OlyE9-lKcXsKOu3yfdyaYA_0.jpg; counterpart dash cam image: video/1/image-109.jpg
+number of iter: 1; max coef of normxcorr: 0.46368; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_OlyE9-lKcXsKOu3yfdyaYA_0.jpg___image-109.jpg
+
+Croped pano: ./video/1/pano_ETAH6FKS510YUDjD5Y4wcg_180.jpg; counterpart dash cam image: video/1/image-118.jpg
+number of iter: 3; max coef of normxcorr: 0.60938; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_ETAH6FKS510YUDjD5Y4wcg_180.jpg___image-118.jpg
+
+Croped pano: ./video/1/pano_ETAH6FKS510YUDjD5Y4wcg_0.jpg; counterpart dash cam image: video/1/image-118.jpg
+number of iter: 1; max coef of normxcorr: 0.60413; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_ETAH6FKS510YUDjD5Y4wcg_0.jpg___image-118.jpg
+
+Croped pano: ./video/1/pano_dY-CUaNfAhba8OYecWg6sA_180.jpg; counterpart dash cam image: video/1/image-081.jpg
+number of iter: 1; max coef of normxcorr: 0.6184; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_dY-CUaNfAhba8OYecWg6sA_180.jpg___image-081.jpg
+
+Croped pano: ./video/1/pano_dY-CUaNfAhba8OYecWg6sA_0.jpg; counterpart dash cam image: video/1/image-082.jpg
+number of iter: 1; max coef of normxcorr: 0.52867; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_dY-CUaNfAhba8OYecWg6sA_0.jpg___image-082.jpg
+
+Croped pano: ./video/1/pano_e8-iKYEBdMtsmWMJY9duPA_180.jpg; counterpart dash cam image: video/1/image-094.jpg
+number of iter: 1; max coef of normxcorr: 0.55913; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_e8-iKYEBdMtsmWMJY9duPA_180.jpg___image-094.jpg
+
+Croped pano: ./video/1/pano_e8-iKYEBdMtsmWMJY9duPA_0.jpg; counterpart dash cam image: video/1/image-098.jpg
+number of iter: 3; max coef of normxcorr: 0.48414; A"s expanding ratio: 1.409
+croped image path: ./video/1/croped/pano_e8-iKYEBdMtsmWMJY9duPA_0.jpg___image-098.jpg
+
+Croped pano: ./video/1/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 5; max coef of normxcorr: 0.39972; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 1; max coef of normxcorr: 0.73565; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 5; max coef of normxcorr: 0.39972; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg; counterpart dash cam image: video/1/image-135.jpg
+number of iter: 5; max coef of normxcorr: 0.39972; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_qcQlGwHbW0c36MF083ckTQ_0.jpg___image-135.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: ./video/1/image-116.jpg
+number of iter: 5; max coef of normxcorr: 0.26219; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___1/image-116.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: ./video/1/image-116.jpg
+number of iter: 1; max coef of normxcorr: 0.52962; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___1/image-116.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: ./video/1/image-116.jpg
+number of iter: 1; max coef of normxcorr: 0.52962; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___1/image-116.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: ./video/1/image-116.jpg
+number of iter: 1; max coef of normxcorr: 0.52962; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___1/image-116.jpg
+
+Croped pano: ./video/1/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg; counterpart dash cam image: ./video/1/image-116.jpg
+number of iter: 5; max coef of normxcorr: 0.26219; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_4bQ5jM3bca-rip0H-EZNHg_180.jpg___1/image-116.jpg
+
+Croped pano: ./video/1/pano_cQYWlZpa1irND64fd3xjQg_0.jpg; counterpart dash cam image: ./video/1/image-132.jpg
+number of iter: 5; max coef of normxcorr: 0.34888; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_cQYWlZpa1irND64fd3xjQg_0.jpg___1/image-132.jpg
+
+Croped pano: ./video/1/pano_cQYWlZpa1irND64fd3xjQg_0.jpg; counterpart dash cam image: ./video/1/image-132.jpg
+number of iter: 5; max coef of normxcorr: 0.65591; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_cQYWlZpa1irND64fd3xjQg_0.jpg___1/image-132.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.53995; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 5; max coef of normxcorr: 0.43552; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 5; max coef of normxcorr: 0.43552; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.42922; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.53995; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.53995; A"s expanding ratio: 1.3812
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 5; max coef of normxcorr: 0.43552; A"s expanding ratio: 1.4373
+croped image path: ./video/1/croped/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg___1/image-107.jpg
+
+Croped pano: ./video/1/pano_DNGDZlrD2vWlTp6CKbUy1g_180.jpg; counterpart dash cam image: ./video/1/image-107.jpg
+number of iter: 1; max coef of normxcorr: 0.53995; A"s expanding ratio: 1.3812
+croped image path: ./video/1/cropped/cropped_DNGDZlrD2vWlTp6CKbUy1g_180___image-107.jpg
+

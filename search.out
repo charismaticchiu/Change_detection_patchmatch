@@ -1,0 +1,52 @@
+knn.cpp:      current = fast_patch_dist<PATCH_W, 0>(adata, b, bpos.x0>>16, bpos.y0>>16, err, p);
+knn.cpp:      current = sim_fast_patch_dist<PATCH_W, 1>(adata, b, bpos, err);
+knn.cpp:        int d = fast_patch_dist<PATCH_W, 0>(adata, b, INT_TO_X(p_ann[i]), INT_TO_Y(p_ann[i]), INT_MAX, p);
+knn.cpp:        int d = sim_fast_patch_dist<PATCH_W, 1>(adata, b, bpos, INT_MAX);
+Binary file nnmex.mexa64 matches
+patch.cpp:int fast_patch_dist<1, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<2, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<3, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<4, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<5, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<6, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.cpp:int fast_patch_dist<7, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+#patch.h#:// fast_patch_dist:			taking adata, b_bitmap, and do early termination according to maxval
+#patch.h#:int fast_patch_dist(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+#patch.h#:int fast_patch_dist<1, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<2, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<3, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<4, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<5, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<6, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:int fast_patch_dist<7, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+#patch.h#:    int current = fast_patch_dist<PATCH_W, IS_WINDOW>(adata, b, bx, by, err, p);
+patch.h:// fast_patch_dist:			taking adata, b_bitmap, and do early termination according to maxval
+patch.h:int fast_patch_dist(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p) {
+patch.h:int fast_patch_dist<1, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<2, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<3, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<4, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<5, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<6, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:int fast_patch_dist<7, 0>(int *adata, BITMAP *b, int bx, int by, int maxval, Params *p);
+patch.h:    int current = fast_patch_dist<PATCH_W, IS_WINDOW>(adata, b, bx, by, err, p);
+simpatch.h:int sim_fast_patch_dist(int *adata, BITMAP *b, XFORM bpos, int maxval) {
+simpatch.h:    int current = sim_fast_patch_dist<PATCH_W, 1>(adata, b, bpos, err);
+simpatch.h:  return sim_fast_patch_dist<TPATCH_W, DO_BRANCH>(adata, b, bpos, maxval);
+tags:XCvec_fast_patch_dist	vecpatch.h	/^ACCUM XCvec_fast_patch_dist(T *adata[PATCH_W][PATC/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<1, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<2, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<3, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<4, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<5, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<6, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	patch.cpp	/^int fast_patch_dist<7, 0>(int *adata, BITMAP *b, i/
+tags:fast_patch_dist	#patch.h#	/^int fast_patch_dist(int *adata, BITMAP *b, int bx,/
+tags:fast_patch_dist	patch.h	/^int fast_patch_dist(int *adata, BITMAP *b, int bx,/
+tags:sim_fast_patch_dist	simpatch.h	/^int sim_fast_patch_dist(int *adata, BITMAP *b, XFO/
+tags:vec_fast_patch_dist	vecpatch.h	/^ACCUM vec_fast_patch_dist(T *apatch, T *bpatch, AC/
+vecpatch.h:ACCUM vec_fast_patch_dist(T *apatch, T *bpatch, ACCUM maxval, Params *p) {
+vecpatch.h:    ACCUM current = vec_fast_patch_dist<T, ACCUM, IS_WINDOW>(apatch, b->get(bx, by), err, p);
+vecpatch.h:ACCUM XCvec_fast_patch_dist(T *adata[PATCH_W][PATCH_W], VECBITMAP<T> *b, int bx, int by, ACCUM maxval, Params *p) {
+vecpatch.h:    ACCUM current = XCvec_fast_patch_dist<T, ACCUM, IS_WINDOW, PATCH_W>(adata, b, bx, by, err, p);
+Binary file votemex.mexa64 matches
